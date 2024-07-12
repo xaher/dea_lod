@@ -479,10 +479,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?place_annotation_20240712154256228",
+	"id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?place_annotation_20240712154824563",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-07-12T13:42:56.228Z",
-	"dcterms:modified": "2024-07-12T13:48:24.563Z",
+	"dcterms:created": "2024-07-12T13:48:24.563Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/xaher",
 		"@type": [
@@ -493,7 +492,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?place_annotation_20240712154256228#Target",
+		"@id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?place_annotation_20240712154824563#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml",
@@ -507,7 +506,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?place_annotation_20240712154256228#Selector",
+			"@id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?place_annotation_20240712154824563#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/closer/placeName"
 		}
@@ -589,10 +588,10 @@
               Prince Vasilii Vasil’evich Golitsyn </persName>
           </title>
         </head>
-        <note cert="high" evaluate="all" place="top" xml:space="default" facs="https://raw.githubusercontent.com/xaher/dea_lod/8b0f173bcbd84ca4f30d412fd61eeae84946380b/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001_13.jpg">
+        <note cert="high" evaluate="all" place="top" xml:space="default">
           RGADA, fond 32, opis 1, 1689, no. 1, f. 13–14. German original.
         </note>
-        <pb cert="high" n="f. 13" xml:space="default"/>
+        <pb cert="high" n="f. 13" xml:space="default" facs="https://raw.githubusercontent.com/xaher/dea_lod/8b0f173bcbd84ca4f30d412fd61eeae84946380b/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001_13.jpg"/>
         <opener>
           <salute>Durchleuchtiger, Hochgebohrner Fürst
           <lb/>Gnadigster Herr, Herr p[erge]</salute>
