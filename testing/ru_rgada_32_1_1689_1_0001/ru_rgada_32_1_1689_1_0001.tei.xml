@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/gbv/dea_lod/main/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+    <fileDesc xml:id="ru_rgada_32_1_1689_1_0001">
+      <titleStmt>
+        <title type="main" xml:lang="en">
+          Letter from the Imperial Legation Secretary, Georg Gottfried von Koch, to the
+          Chancellor and Boiar, Prince Vasilii Vasil'evich Golitsyn
+        </title>
+        <author>
+          <persName key="p0612" ref="c9e05b13-502d-45a0-988a-cae2db5e1e5b">
+            <forename xml:lang="en">Georg</forename>
+	          <forename xml:lang="en">Gottfried</forename>
+            <nameLink xml:lang="en">von</nameLink>
+            <surname xml:lang="ru">Koch</surname>
+            <forename xml:lang="ru">Юрий</forename>
+            <forename xml:lang="ru">Готфрид</forename>
+            <surname xml:lang="ru">Кох</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/trc">Author of description</resp>
+          <persName ref="#lavrinovich">
+            <surname>Lavrinovich</surname>
+            <forename>Maya</forename>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Languages of Diplomacy Digital Edition</edition>
+        <editor>
+          <persName ref="#rjeoutski">
+            <surname>Rjeoutski</surname>
+            <forename>Vladislav</forename>
+          </persName>
+        </editor>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#borisov">
+            <surname>Borisov</surname>
+            <forename>Viktor</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#kandakou">
+            <surname>Kandakou</surname>
+            <forename>Dzianis</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#lavrinovich">
+            <surname>Lavrinovich</surname>
+            <forename>Maya</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#sergeev">
+            <surname>Sergeev</surname>
+            <forename>Mikhail</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#herzog">
+            <surname>Herzog</surname>
+            <forename>André</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#wallner">
+            <surname>Wallner</surname>
+            <forename>Karin</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#pipka">
+            <surname>Rißler-Pipka</surname>
+            <forename>Nanette</forename>
+          </persName>
+        </respStmt>
+      </editionStmt>
+      <extent>
+        <measure type="folio">30</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <orgName role="hostingInstitution" xml:lang="de">que.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-10">10. Juli 2024</date>
+        <availability xml:id="availability-textsource-1" corresp="#textsource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <availability xml:id="availability-imagesource-1" corresp="#imagesource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <idno>
+          <idno type="project_id">lod</idno>
+        </idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main" level="s">Languages of eighteenth-century diplomacy</title>
+        <title type="sub" level="s">Russia in a European context</title>
+      </seriesStmt>
+      <notesStmt>
+        <relatedItem>
+          <ref type="see_also" target=""></ref>
+        </relatedItem>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <repository n="RGADA">RGADA</repository>
+            <idno type="shelfmark">fond 32, opis 1, 1689, no. 1, f. 13-14</idno>
+          </msIdentifier>
+          <physDesc>
+            <p>original</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract xml:lang="en">
+        <p>
+          peace negotiations with the Ottoman Porta; news from the battlefields of the Nine Years'
+          War (War of the League of Augsburg); William of Orange's impending proclamation as King of England
+        </p>
+      </abstract>
+      <langUsage>
+        <language ident="de">german</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="diplomatic_document">diplomatic document</classCode>
+        <classCode scheme="letter">letter</classCode>
+      </textClass>
+      <creation>
+        <date when="1689-02-27" calendar="gregorian">27/02/1689</date>
+        <date when="1689-02-17" calendar="julian">17/02/1689 (n.s.)</date>
+      </creation>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="p0612" ref="c9e05b13-502d-45a0-988a-cae2db5e1e5b">
+            <forename xml:lang="en">Georg</forename>
+	          <forename xml:lang="en">Gottfried</forename>
+            <nameLink xml:lang="en">von</nameLink>
+            <surname xml:lang="ru">Koch</surname>
+            <forename xml:lang="ru">Юрий</forename>
+            <forename xml:lang="ru">Готфрид</forename>
+            <surname xml:lang="ru">Кох</surname>
+          </persName>
+          <settlement key="g0005" ref="https://www.geonames.org/2761369">Vienna</settlement>
+          <date when="1689-02-27" calendar="gregorian">27/02/1689</date>
+          <date when="1689-02-17" calendar="julian">17/02/1689 (n.s.)</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="p0488" ref="cdcac43a-948f-4f36-a3b9-6671ac3ce984">
+            <forename xml:lang="en">Vasilii</forename>
+            <forename xml:lang="en">Vasil'evich</forename>
+            <surname xml:lang="en">Golitsyn</surname>
+            <forename xml:lang="ru">Василий</forename>
+            <forename xml:lang="ru">Васильевич</forename>
+            <surname xml:lang="ru">Голицын</surname>
+          </persName>
+          <settlement key="g0005" ref="https://www.geonames.org/524901">Moscow</settlement>
+        </correspAction>
+        <correspContext>
+          <listRef>
+            <ref type="see_also" target="ru_avpri_53_5_168_0002">ru_avpri_53_5_168_0002</ref>
+          </listRef>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <head>
+          <title>27 February 1689 [n.s.]. – Letter from
+            <persName key="p0612" ref="c9e05b13-502d-45a0-988a-cae2db5e1e5b">the Imperial Legation Secretary,
+              Georg Gottfried von Koch</persName> to the
+            <persName key="p0488" ref="cdcac43a-948f-4f36-a3b9-6671ac3ce984">Chancellor and Boyar,
+              Prince Vasilii Vasil’evich Golitsyn </persName>
+          </title>
+        </head>
+        <note cert="high" evaluate="all" place="top" xml:space="default" facs="ru_rgada_32_1_1689_1_0001_13.jpg">
+          RGADA, fond 32, opis 1, 1689, no. 1, f. 13–14. German original.
+        </note>
+        <pb cert="high" n="f. 13" xml:space="default" />
+        <opener>
+          <salute>Durchleuchtiger, Hochgebohrner Fürst
+          <lb/>Gnadigster Herr, Herr p[erge]</salute>
+        </opener>
+        <p>
+          Mit der türckhischen legation ist gestern Mehrmahls conferenz gehalten, vnd darbey vnser seits nichts anders
+          proponirt worden, alß d[as] sich <persName key="p0463" ref="564d62b6-cb43-468d-ae7b-49f4c6d523d7">Ihro May[estä]t
+          </persName> keines weegs zum frieden verstehen würden, wan die Ottomannische Porte sowohl Pohlen als Venedig
+          die gebührende satis faction weiters weigern solte. vnd damit sie die türckhen wegen abgang der Pohlnischen
+          vollmacht den frieden zu befürdern keinen weitern auffschub vorzuwenden hetten, alß seye der hier geweste
+          <persName key="p0618" ref="bc5052fb-e9b6-4017-ba2b-cfb9f10c5c42">Pohlnische deputirte</persName> vmb 
+          Eine gnugsambe plenipotenz hierüber abzuhohlen vorgestern Persohnlich Nacher <placeName key="g0009">Warschau
+          </placeName> abgereyst, bieß zu dessen zuruckunfft sie dan dieseß werck besser zu überlegen, vnd solchem Nach
+          sich Eins Mehrern zu Erkhlären wissen würden. Vnd obzwar die bieß hero gehabte friedens Conferenzen Einige
+          hoffnung darzu geben, So wird doch selbiger schwerlich dahier vor der campagne, sondern allem ansehen Nach im
+          feld bey der armee geschlossen werden, qviby conditioniby stehet zuErwarten, weßwegen wenigst diesen Sommer
+          vnsere armee ins Reich nit völlig wird hinauffgehen konnen
+        </p>
+        <p>
+          Auß Schweitzerland hat Man, daß in puncto conservandæ Neutralitaty Selbige Stände Noch Nichts verläßliches
+          zwar resolvirt, Sondern dieseß werck ahm Ersten Marty wieder Eröffenen würden, Sie hetten doch So viel
+          versprochen, daß Sie die <hi rendition="#sup"/> <placeName key="g0205">Statt Costnitz</placeName>, vnd
+        </p>
+        <pb cert="high" n="f. 13v" xml:space="default" facs="ru_rgada_32_1_1689_1_0001_13v.jpg"/>
+        <p>
+          andere vor der oistereichische Granitz festungen vnter ihrer defension Nemmen, vnd
+          <persName key="p0463" ref="564d62b6-cb43-468d-ae7b-49f4c6d523d7">ihro kay[serlichen] May[estä]t
+          </persName> 3000 Man in ihrem land werben lassen wolten, wieder welches der
+          <persName key="p0619" ref="6dfe084e-bc36-488c-90ec-14044f64b12b">Franyzösische Ambassadeur</persName>
+          wid[er] Schweitz sehr hart protestirt. doch Nichts Erhalten haben soll. Sonsten tuhen die
+          Franzosen Jenseits deß Rheins alle ohrten, vnd Paß dergestalt Fortificiren, vnd sich in solche postur fest
+          Machen daß Man noch nit wissen khan, wie vnd wo Man den Rhein passiren solle, vnd wird solches vieleicht mit
+          Einem grossen verlust der vnßrigen beschehen Müssen, Eß were dan, daß vnß der 
+          <persName key="p0620" ref="4688798e-e2f2-44ba-a7c5-023eb124d1ed">Prinz v[on] oranien</persName> durch seinen
+          Einfall in Franckreich Einen lufft Machen thäte.
+        </p>
+        <p>
+          So viel die letztere schreiben auß Holland geben, So soll gedachter <persName key="p0620" ref="4688798e-e2f2-44ba-a7c5-023eb124d1ed">
+          Prinz v[on] oranien </persName> bey dem Ersten Convent dem <orgName key="o0010" ref="1f012320-1886-4cbd-8799-2ad7ad0e47c8">Parlament
+          in Engelland</orgName> Eine sehr zierliche, vnd hochverNünfftige rede gethan, vnd hiemit, auch durch seine andere grosse,
+          vnd fürstliche conduite dergestalt die Englische gemühter ahn sich gezogen haben, daß Er allem ansehen Nach
+          Nechstens pro Rege Angliæ auffgenommen, vnd declarirt werden dörffte, wie dan zu solchem End seine frau
+          gemahlin dorthin auß <placeName key="g0004">dem Haag</placeName> abgehohlt wird.
+        </p>
+        <p>
+          der <persName key="p0621" ref="f11b70f3-27f7-4256-a5be-670d09e0bd7f">Churfürst auß Bayern</persName> hat
+          vorgestern durch Ei=
+        </p>
+          <pb cert="high" n="f. 14" xml:space="default" facs="ru_rgada_32_1_1689_1_0001_14.jpg"/>
+         <p>
+           nen Courier dem hiesigen <persName key="o0028" ref="a5889260-1745-4e09-b44e-effd84d1344e">
+            kay[serlichen] hoff</persName> Erinnern lassen wie d[as] sie sich schon Etliche tag ahn den blatern betliegerrig befundten, vnd
+           also Nit wissen könten, wie bald sie hieher kommen Mögten. hingegen hat Man Nachricht Erhalten, daß <persName
+           key="p0622" ref="d9df2975-d71d-4168-b10f-5e66e8c48d57">Ihro d[urc]hl[auch]t der Herzog von
+           lothringen</persName>, vnd <persName key="p0623" ref="9304be56-380a-40ef-b58a-25dcdcff276e">Ihro
+           churfürstliche d[urc]hl[auch]t von Sachsen </persName> in Etlichen wochen sich dahier bey hoff 
+           Einfinden vnd sich mit <persName key="p0463" ref="564d62b6-cb43-468d-ae7b-49f4c6d523d7">
+            Ihrer kay[serlichen] May[estä]t
+          </persName> wegen deß Commando über die beuorstehende campagne im Reich vmbständlich vnterreden wolte.
+        </p>
+        <closer>
+          <salute>
+            <lb/>Mich zu beharlichen hochfürstl[ichen] gnad[en], vnd zu Einer gnädigsten andtwort vnterthänigst Empfehle
+            <lb/>Ew[e]r HochFürstl[ichen] Gn[a]d[en]
+          </salute>
+          <lb/><placeName key="g0005">Wien</placeName>     d[en] 27. Feb[ruary] Vnterthanig: gehorsambster
+          <lb/>1689
+          <lb/><persName key="p0612" ref="c9e05b13-502d-45a0-988a-cae2db5e1e5b">George Godefroy de Koch</persName>
+          <lb/>Secretari[us] m[anu] p[ropria]
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
