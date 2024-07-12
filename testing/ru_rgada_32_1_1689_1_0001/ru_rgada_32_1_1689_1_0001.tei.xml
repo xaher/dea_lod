@@ -482,7 +482,7 @@
 	"id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?place_annotation_20240712154256228",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-07-12T13:42:56.228Z",
-	"dcterms:modified": "2024-07-12T13:42:56.228Z",
+	"dcterms:modified": "2024-07-12T13:48:24.563Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/xaher",
 		"@type": [
@@ -513,7 +513,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "https://www.geonames.org/2761369",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://stable.leafwriter.users.h-da.cloud",
@@ -655,7 +657,7 @@
             <lb/>Mich zu beharlichen hochfürstl[ichen] gnad[en], vnd zu Einer gnädigsten andtwort vnterthänigst Empfehle
             <lb/>Ew[e]r HochFürstl[ichen] Gn[a]d[en]
           </salute>
-          <lb/><placeName key="g0005">Wien</placeName>     d[en] 27. Feb[ruary] Vnterthanig: gehorsambster
+          <lb/><placeName key="g0005" ref="https://www.geonames.org/2761369">Wien</placeName>     d[en] 27. Feb[ruary] Vnterthanig: gehorsambster
           <lb/>1689
           <lb/><persName key="p0612" ref="c9e05b13-502d-45a0-988a-cae2db5e1e5b">George Godefroy de Koch</persName>
           <lb/>Secretari[us] m[anu] p[ropria]
