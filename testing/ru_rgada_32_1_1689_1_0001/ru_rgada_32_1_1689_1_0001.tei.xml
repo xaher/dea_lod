@@ -116,7 +116,7 @@
       </seriesStmt>
       <notesStmt>
         <relatedItem>
-          <ref type="see_also" target=""></ref>
+          <ref type="see_also">ru_avpri_53_5_168_0002</ref>
         </relatedItem>
       </notesStmt>
       <sourceDesc>
@@ -177,7 +177,7 @@
         </correspAction>
         <correspContext>
           <listRef>
-            <ref type="see_also" target="ru_avpri_53_5_168_0002">ru_avpri_53_5_168_0002</ref>
+            <ref type="see_also">ru_avpri_53_5_168_0002</ref>
           </listRef>
         </correspContext>
       </correspDesc>
@@ -194,7 +194,7 @@
               Prince Vasilii Vasil’evich Golitsyn </persName>
           </title>
         </head>
-        <note cert="high" evaluate="all" place="top" xml:space="default" facs="ru_rgada_32_1_1689_1_0001_13.jpg">
+        <note cert="high" evaluate="all" place="top" xml:space="default" facs="https://raw.githubusercontent.com/xaher/dea_lod/8b0f173bcbd84ca4f30d412fd61eeae84946380b/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001_13.jpg">
           RGADA, fond 32, opis 1, 1689, no. 1, f. 13–14. German original.
         </note>
         <pb cert="high" n="f. 13" xml:space="default" />
@@ -221,7 +221,7 @@
           zwar resolvirt, Sondern dieseß werck ahm Ersten Marty wieder Eröffenen würden, Sie hetten doch So viel
           versprochen, daß Sie die <hi rendition="#sup"/> <placeName key="g0205">Statt Costnitz</placeName>, vnd
         </p>
-        <pb cert="high" n="f. 13v" xml:space="default" facs="ru_rgada_32_1_1689_1_0001_13v.jpg"/>
+        <pb cert="high" n="f. 13v" xml:space="default" facs="https://raw.githubusercontent.com/xaher/dea_lod/8b0f173bcbd84ca4f30d412fd61eeae84946380b/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001_13v.jpg"/>
         <p>
           andere vor der oistereichische Granitz festungen vnter ihrer defension Nemmen, vnd
           <persName key="p0463" ref="564d62b6-cb43-468d-ae7b-49f4c6d523d7">ihro kay[serlichen] May[estä]t
@@ -246,7 +246,7 @@
           der <persName key="p0621" ref="f11b70f3-27f7-4256-a5be-670d09e0bd7f">Churfürst auß Bayern</persName> hat
           vorgestern durch Ei=
         </p>
-          <pb cert="high" n="f. 14" xml:space="default" facs="ru_rgada_32_1_1689_1_0001_14.jpg"/>
+        <pb cert="high" n="f. 14" xml:space="default" facs="https://raw.githubusercontent.com/xaher/dea_lod/8b0f173bcbd84ca4f30d412fd61eeae84946380b/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001_14.jpg"/>
          <p>
            nen Courier dem hiesigen <persName key="o0028" ref="a5889260-1745-4e09-b44e-effd84d1344e">
             kay[serlichen] hoff</persName> Erinnern lassen wie d[as] sie sich schon Etliche tag ahn den blatern betliegerrig befundten, vnd
