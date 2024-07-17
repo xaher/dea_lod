@@ -715,10 +715,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?place_annotation_20240712155527460",
+	"id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?place_annotation_20240712155644738",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-07-12T13:55:27.460Z",
-	"dcterms:modified": "2024-07-12T13:56:44.738Z",
+	"dcterms:created": "2024-07-12T13:56:44.738Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/xaher",
 		"@type": [
@@ -729,7 +728,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?place_annotation_20240712155527460#Target",
+		"@id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?place_annotation_20240712155644738#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml",
@@ -743,7 +742,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?place_annotation_20240712155527460#Selector",
+			"@id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?place_annotation_20240712155644738#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName"
 		}
@@ -794,10 +793,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?place_annotation_20240712155716575",
+	"id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?place_annotation_20240712155757998",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-07-12T13:57:16.575Z",
-	"dcterms:modified": "2024-07-12T13:57:57.998Z",
+	"dcterms:created": "2024-07-12T13:57:57.998Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/xaher",
 		"@type": [
@@ -808,7 +806,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?place_annotation_20240712155716575#Target",
+		"@id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?place_annotation_20240712155757998#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml",
@@ -822,7 +820,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?place_annotation_20240712155716575#Selector",
+			"@id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?place_annotation_20240712155757998#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[2]/placeName"
 		}
@@ -1268,10 +1266,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?place_annotation_20240712155831078",
+	"id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?place_annotation_20240712160058588",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-07-12T13:58:31.078Z",
-	"dcterms:modified": "2024-07-12T14:00:58.588Z",
+	"dcterms:created": "2024-07-12T14:00:58.588Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/xaher",
 		"@type": [
@@ -1282,7 +1279,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?place_annotation_20240712155831078#Target",
+		"@id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?place_annotation_20240712160058588#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml",
@@ -1296,7 +1293,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?place_annotation_20240712155831078#Selector",
+			"@id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?place_annotation_20240712160058588#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/placeName"
 		}
@@ -1546,8 +1543,7 @@
         </opener>
         <p>
           Mit der türckhischen legation ist gestern Mehrmahls conferenz gehalten, vnd darbey vnser seits nichts anders
-          proponirt worden, alß d[as] sich <persName key="p0463" ref="564d62b6-cb43-468d-ae7b-49f4c6d523d7">Ihro May[estä]t
-          </persName> keines weegs zum frieden verstehen würden, wan die Ottomannische Porte sowohl Pohlen als Venedig
+          proponirt worden, alß d[as] sich <persName key="p0463" ref="564d62b6-cb43-468d-ae7b-49f4c6d523d7">Ihro May[estä]t</persName> keines weegs zum frieden verstehen würden, wan die Ottomannische Porte sowohl Pohlen als Venedig
           die gebührende satis faction weiters weigern solte. vnd damit sie die türckhen wegen abgang der Pohlnischen
           vollmacht den frieden zu befürdern keinen weitern auffschub vorzuwenden hetten, alß seye der hier geweste
           <persName key="p0618" ref="bc5052fb-e9b6-4017-ba2b-cfb9f10c5c42">Pohlnische deputirte</persName> vmb 
