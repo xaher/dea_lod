@@ -1032,7 +1032,7 @@
 	"id": "https://raw.githubusercontent.com/xaher/dea_lod/main/testing/ru_rgada_32_1_1689_1_0001/ru_rgada_32_1_1689_1_0001.tei.xml?person_annotation_20240712155814285",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-07-12T13:58:14.285Z",
-	"dcterms:modified": "2024-07-12T13:58:14.285Z",
+	"dcterms:modified": "2024-07-17T08:29:49.416Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/xaher",
 		"@type": [
