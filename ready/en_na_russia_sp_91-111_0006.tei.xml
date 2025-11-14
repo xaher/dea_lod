@@ -133,9 +133,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/gbv/dea_lod/main/ready/en_na_russia_sp_91-111_0006.tei.xml?place_annotation_20250204145044169",
+	"id": "https://raw.githubusercontent.com/xaher/dea_lod/main/ready/en_na_russia_sp_91-111_0006.tei.xml?place_annotation_20250204145044169",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-02-04T13:50:44.169Z",
+	"dcterms:modified": "2025-02-04T13:50:44.169Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/DzianisKandakou",
 		"@type": [
@@ -146,21 +147,21 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/gbv/dea_lod/main/ready/en_na_russia_sp_91-111_0006.tei.xml?place_annotation_20250204145044169#Target",
+		"@id": "https://raw.githubusercontent.com/xaher/dea_lod/main/ready/en_na_russia_sp_91-111_0006.tei.xml?place_annotation_20250204145044169#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/gbv/dea_lod/main/ready/en_na_russia_sp_91-111_0006.tei.xml",
+			"@id": "https://raw.githubusercontent.com/xaher/dea_lod/main/ready/en_na_russia_sp_91-111_0006.tei.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
+			"@id": "https://dev.leafwriter.users.h-da.cloud",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/gbv/dea_lod/main/ready/en_na_russia_sp_91-111_0006.tei.xml?place_annotation_20250204145044169#Selector",
+			"@id": "https://raw.githubusercontent.com/xaher/dea_lod/main/ready/en_na_russia_sp_91-111_0006.tei.xml?place_annotation_20250204145044169#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[2]/placeName"
 		}
@@ -171,7 +172,7 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
+		"@id": "https://dev.leafwriter.users.h-da.cloud",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
@@ -225,7 +226,7 @@
         <p>Au reste, Monsieur, je me repose sur l’amitié de V[otre] E[xcellence] pour l’usage,
           qu’Elle trouvera à propos de faire de cette lettre, &amp; des pièces y jointes, &amp; j’ai
           l’honneur d’être etc.</p>
-      </div>
+      </div><div resp="André Herzog" type="translation"><p>Test</p></div>
     </body>
   </text>
 </TEI>
