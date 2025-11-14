@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/gbv/dea_lod/main/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="en">Draft of the letter from the Vice-Chancellor of Russia,
+          Prince Aleksandr Mikhailovich Golitsyn, to the Minister Plenipotentiary of Russia in
+          Denmark Baron Johann Albrecht von Korff</title>
+        <author xml:lang="en">Aleksandr Mikhailovich Golitsyn</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Languages of Diplomacy Digital Edition</edition>
+        <editor>
+          <persName ref="#rjeoutski">
+            <surname>Rjeoutski</surname>
+            <forename>Vladislav</forename>
+          </persName>
+        </editor>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#borisov">
+            <surname>Borisov</surname>
+            <forename>Viktor</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#kandakou">
+            <surname>Kandakou</surname>
+            <forename>Dzianis</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#lavrinovich">
+            <surname>Lavrinovich</surname>
+            <forename>Maya</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#sergeev">
+            <surname>Sergeev</surname>
+            <forename>Mikhail</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#herzog">
+            <surname>Herzog</surname>
+            <forename>André</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#wallner">
+            <surname>Wallner</surname>
+            <forename>Karin</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#pipka">
+            <surname>Rißler-Pipka</surname>
+            <forename>Nanette</forename>
+          </persName>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName role="hostingInstitution" xml:lang="de">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-08-30">30. August 2024</date>
+        <availability xml:id="availability-textsource-1" corresp="#textsource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <availability xml:id="availability-imagesource-1" corresp="#imagesource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <idno>
+          <idno type="project_id">lod</idno>
+        </idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main" level="s">Languages of eighteenth-century diplomacy</title>
+        <title type="sub" level="s">Russia in a European context</title>
+      </seriesStmt>
+      <sourceDesc>
+        <p>TODO</p>
+      </sourceDesc>
+    </fileDesc>
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><profileDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <head>
+          <title>29 September / 10 October 1764. – Draft of a letter from <persName key="p0065">the Vice-Chancellor of Russia, Prince Aleksandr Mikhailovich Golitsyn</persName>, to <persName key="p0245">the  Russian Envoy Extraordinary to Copenhagen, Baron Johann
+              Albrecht von Korff</persName></title>
+          <note>
+            <bibl>AVPRI, fond 53, opis 5, no. 168, f. 20. French copy.</bibl>
+          </note>
+        </head>
+        <pb n="f. 20"/>
+        <opener>
+          <address>
+            <addrLine> à <persName key="p0245">S[on] E[xellence] M[onsieur]r le Baron de Korff</persName> a <placeName key="g0006">Copenhague</placeName></addrLine>
+          </address>
+          <dateline><placeName key="g0002">S[aint] Petersbourg</placeName> ce <date>29 7bre / 10
+              8bre 1764</date>.</dateline>
+          <salute>Monsieur,</salute>
+        </opener>
+        <p>Je viens d’être honoré de la lettre de V[otre]. E[xcellence]. du 28 août / 8 7bre &amp;
+          je vous prie d’agréer mes remerciements des peines, que Vous avez bien voulu prendre pour
+          mettre <hi rendition="#s">commission</hi> <persName key="p0925">M[onsieu]r. Desfeld</persName>
+          en état d’exécuter ma commission. La façon, dont Vous vous étes pris avec Lui sur ce
+          sujet, ne peut que contribuer à faire réüssir L’achat, dont il s’est chargé. </p>
+        <p>Il me paroit que c’est trop prétendre, que la commission de <hi rendition="#s">donnée par</hi>
+          <persName key="p1516">M[onsieu]r Osten</persName> pour <persName key="p2092">M[onsieu]r. le
+          Maréchal C[om]te de Solticoff</persName> soit exécutée dans la raison avancée, où nous
+          sommes, de sorte que <persName key="p2209">Mr. de Rosencranz</persName> n’a pas tort de la
+          rémettre à un têms plus propre à cet effêt.</p>
+        <p>Il ne me reste cette fois-ci que d’assûrer V[otre]. E[xcellence]. des sentiments de la
+          considération très distinguée, avec laquelle j’ai l’honneur d’être.</p>
+        <closer>
+                  <persName key="p0065">P[rince] A[lexandre] Galitzin</persName>
+                  </closer>
+
+        <noteGrp>
+          <note>See also:</note>
+          <note>ru_avpri_53_5_168_0003</note>
+          <note>ru_avpri_53_5_180_0003</note>
+          <note>ru_avpri_53_5_180_0004</note>
+          <note>ru_avpri_53_5_180_0005</note>
+        </noteGrp>
+      </div>
+    </body>
+  </text>
+</TEI>

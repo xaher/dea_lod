@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/gbv/dea_lod/main/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="en">Memorial presented to His Excellency the active privy
+          councilor etc, etc, Baron [Johann Albrecht von] Korff, by one of his servants</title>
+        <title type="main" xml:lang="fr">Mémoire présenté à son Excellence Monseigneur le conseiller
+          privé actuël etc : etc : Baron de Korff, par l’un de ses domestiques</title>
+        <author xml:lang="en">André Richter</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Languages of Diplomacy Digital Edition</edition>
+        <editor>
+          <persName ref="#rjeoutski">
+            <surname>Rjeoutski</surname>
+            <forename>Vladislav</forename>
+          </persName>
+        </editor>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#borisov">
+            <surname>Borisov</surname>
+            <forename>Viktor</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#kandakou">
+            <surname>Kandakou</surname>
+            <forename>Dzianis</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#lavrinovich">
+            <surname>Lavrinovich</surname>
+            <forename>Maya</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#sergeev">
+            <surname>Sergeev</surname>
+            <forename>Mikhail</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#herzog">
+            <surname>Herzog</surname>
+            <forename>André</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#wallner">
+            <surname>Wallner</surname>
+            <forename>Karin</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#pipka">
+            <surname>Rißler-Pipka</surname>
+            <forename>Nanette</forename>
+          </persName>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName role="hostingInstitution" xml:lang="de">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-08-30">30. August 2024</date>
+        <availability xml:id="availability-textsource-1" corresp="#textsource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <availability xml:id="availability-imagesource-1" corresp="#imagesource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <idno>
+          <idno type="project_id">lod</idno>
+        </idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main" level="s">Languages of eighteenth-century diplomacy</title>
+        <title type="sub" level="s">Russia in a European context</title>
+      </seriesStmt>
+      <sourceDesc>
+        <p>TODO</p>
+      </sourceDesc>
+    </fileDesc>
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><profileDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <head>
+          <title>6 April 1765. – Memorial presented to <persName key="p0245">His Excellency Active Privy Councilor etc, etc, Baron [Johann Albrecht von] Korff</persName>, by one of
+            his servants</title>
+          <note>
+            <bibl>AVPRI, fond 53, opis 5, no. 173, f. 135-135v. French copy.</bibl>
+          </note>
+        </head>
+        <pb n="f. 135"/>
+        <p>
+          <hi rendition="#u">Traduction №I. </hi>
+          <hi rendition="#u">Copie</hi>
+        </p>
+        <p/>
+        <p>Mémoire présenté à son Excellence Monseigneur le conseiller privé actuël etc : etc : <persName key="p0245">Baron de
+            Korff</persName>, par l’un de ses domestiques.</p>
+        <p/>
+        <p>Le nommé <persName key="p2213">Niels Straede</persName> Domestique de S[on]:
+          E[xcellence]: M[onsieu] <hi rendition="#sup"> r</hi> <persName key="p2302">l’ambassadeur de France</persName>,
+          m’ayant deja attaqué le 19. de novembre de l’année passée en s’approchant de moi tout
+          doucement par derrière dans la rüe et m’arrachant le bouton de la livrée de vôtre
+          Excellence en disant : ah! je te trouve présentement fort à propos ; j’ai évité pour lors
+          toute querelle, en meprisant la brutalité avec la quelle il tomba sur moi en pleine rue,
+          sans respecter la livrée de vôtre Excellence.</p>
+        <p>Le dit domestique étant à cheval le 3 de ce mois sur les 7 heures du soir dans la
+          gottersgade
+          courût sur moi dans l’intention de m’ecraser, ce qu’ayant remarqué, je me sauvois derière
+          les
+          Egouts en m’arrangeant au mur de la face d’une maison et me retirant dans la cave ; mais
+          lui sans
+          lacher prise les traversa pour me passer sur le corps avec son cheval ; et lévant son
+          fouët sur
+          moi, je me retirois dans une cave pour l’éviter, mais ce mechant homme, voyant son dessein
+          échoué
+          descendoit du cheval et me provoquoit dans la rüe ; ne sachant point comment faire pour ne
+          point
+          exposer la livrée de vôtre Excellence, je fus obligé de me retirer plus loin.</p>
+        <p>En consideration de tout ce qui est dit ci dessus, j’implore la gracieuse protection de
+          vôtre
+          Excellence, pour obtenir une satisfaction suffisante, qui me met à l’abri de toute insulte
+          de la
+          part de ce brutal. </p>
+        <pb n="f. 135v"/>
+        <p> J’ai l’honneur de vous assurer, Monseigneur, que non seulement il n’y a rien d’exageré
+          et de faux dans mon mémoire ; mais même, en cas que vôtre Excellence l’éxige, je pourrois
+          l’attester par le temoignage volontaire de quelques bourgeois, qui y ont èté présents.</p>
+        <p>Ayant l’honneur d’étre avec la plus profonde sôumission</p>
+        <closer>
+          <salute>Monseigneur</salute>
+          <salute> de vôtre Excellence </salute>
+          <salute>le trés humble et tres obeissant </salute>
+          <salute>valet et serviteur</salute>
+          <dateline>à <placeName key="g0006">copenhague</placeName> ce <date when="1765-04-06">6<hi rendition="#sup">
+                me</hi> avril 1765</date>.</dateline>
+          <signed><persName key="p2212">André Richter</persName>.</signed>
+        </closer>
+        <postscript>
+          <p>Apostille</p>
+          <p>La raison de la haine de ce domestique contre moi provient d’une femme, à qui j’ai
+            avancé
+            de l’argent et donné du linge pour étre cousû ; mais comme cette femme a eu l’impudence
+            de
+            nier tout ceci, le dit domestique entreprit sa deffensse et oublie qu’Elle est protegée
+            par son maître. Quoique il a lui même desavoué son accusation en présence de vôtre
+            Excellence. datum ut supra.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

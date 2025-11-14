@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/gbv/dea_lod/main/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="en">Letter from the Сhamberlain at the Polish-Saxon court, John
+          Maurice Count of Bruhl to the Russian Envoy Extraordinary to London, Prince Aleksandr
+          Mikhailovich Golitsyn</title>
+        <author xml:lang="en">John</author>
+        <author xml:lang="en">Maurice</author>
+        <author xml:lang="en">Bruhl</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Languages of Diplomacy Digital Edition</edition>
+        <editor>
+          <persName ref="#rjeoutski">
+            <surname>Rjeoutski</surname>
+            <forename>Vladislav</forename>
+          </persName>
+        </editor>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#borisov">
+            <surname>Borisov</surname>
+            <forename>Viktor</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#kandakou">
+            <surname>Kandakou</surname>
+            <forename>Dzianis</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#lavrinovich">
+            <surname>Lavrinovich</surname>
+            <forename>Maya</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#sergeev">
+            <surname>Sergeev</surname>
+            <forename>Mikhail</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#herzog">
+            <surname>Herzog</surname>
+            <forename>André</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#wallner">
+            <surname>Wallner</surname>
+            <forename>Karin</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#pipka">
+            <surname>Rißler-Pipka</surname>
+            <forename>Nanette</forename>
+          </persName>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName role="hostingInstitution" xml:lang="de">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-08-30">30. August 2024</date>
+        <availability xml:id="availability-textsource-1" corresp="#textsource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <availability xml:id="availability-imagesource-1" corresp="#imagesource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <idno>
+          <idno type="project_id">lod</idno>
+        </idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main" level="s">Languages of eighteenth-century diplomacy</title>
+        <title type="sub" level="s">Russia in a European context</title>
+      </seriesStmt>
+      <sourceDesc>
+        <p>TODO</p>
+      </sourceDesc>
+    </fileDesc>
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><profileDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <head>
+          <title>14 October 1760. – Letter from <persName key="p0023" ref="68c38ff9-fa0e-4544-b443-602a7f755eb1">the Chamberlain at the Polish-Saxon Court,
+            John Maurice Count of Bruhl</persName>, to <persName key="p0065" ref="c8f0f482-fa7d-4e84-ac52-891dcb4d2adb">the Russian Envoy Extraordinary to London,
+            Prince Aleksandr Mikhailovich Golitsyn</persName>
+          </title>
+          <note>
+            <bibl>RGADA, fond 1263, opis 1, no. 651, f. 1-1v. French original.</bibl>
+          </note>
+        </head>
+        <pb n="f. 1"/>
+        
+        <p>
+          <placeName key="g0004" ref="https://www.geonames.org/2747373">La Haye</placeName> ce 14. 8<hi rendition="#sup">bre</hi> 1760</p>
+        <p>Monseigneur</p>
+        <p>Je prens la liberté d’écrire à Votre Excellence, au nom de <persName key="p0084" ref="23ddd921-2c94-4c45-b258-3889b4edfe47">Monsieur Kauderbach</persName>, qu’une
+          violente fievre empêche d’avoir lui même cet honneur. Je vous accuse en son nom la
+          reception de votre lettre du 7. d[u] c[ourant] et je suis charmé de trouver une occasion pour
+          pouvoir faire Votre connoissance et je suis extremement faché de ne pouvoir avoir le
+          bonheur de me faire connoitre à Votre Excellence de personne.</p>
+        <p>Il est très facheux que vous ayés été obligé Monseigneur </p>
+        <pb n="f. 1v"/>
+        <p> de rompre le silence à cause d’une aussi mauvaise nouvelle que celle de la perte du
+          Canada. Quoique la France devoit s’attendre depuis longtems à ce malheureux evenement, il
+          doit lui être beaucoup plus désagreable dans le moment present. Je n’ai pas eu le tems
+          même de lire la relation de cette mauvaise affaire ayant été obligé de l’envoyer tout de
+          suite à <orgName key="o0012" ref="76593cc3-a621-46b7-8e1c-532ad73e99af">la Cour</orgName>.
+</p><p>On raisonne tout autant ici que chez Vous sur le nouvel embarquement de qu'on fait en Angl[eterre] et ou pourra tendre cette expedition. <persName key="p0084" ref="23ddd921-2c94-4c45-b258-3889b4edfe47">Mr Kauderbach</persName> auroit été charmé de sçavoir le sentiment de Votre Excellence, sur une affaire qui fait tant parler. Il y a beaucoup de monde ici qui sont dans l'opinion que l'affaire n'aura pas lieu, sur les Côtes de Flandre, comme on l'annonçe, il y en a bien qui ne permet pas tout a fait<note>Incomplete document </note></p>
+        <noteGrp>
+          <note>See also:</note>
+          <note>ru_rgada_1263_1_651_0001</note>
+          <note>ru_rgada_1263_1_651_0003</note>
+          <note>ru_rgada_1263_1_651_0004</note>
+          <note>ru_rgada_1263_1_651_0005</note>
+          <note>ru_rgada_1263_1_651_0006</note>
+          <note>ru_rgada_1263_1_651_0007</note>
+        </noteGrp>
+      </div>
+    </body>
+  </text>
+</TEI>

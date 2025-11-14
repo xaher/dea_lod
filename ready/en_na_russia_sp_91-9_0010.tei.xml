@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/gbv/dea_lod/main/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="en">Resolution given by order of His Tsarish Majesty on the
+          memorandum presented by Mister James Jeffreys, Resident of Great Britain</title>
+        <title type="main" xml:lang="fr">Resolution don[n]ée par ordre de S[a] M[ajesté] Czarienne
+          sur le memoire presenté par M[onsieu]r Jaques Jefferys Resident de la Grande Bretagne</title>
+        <author xml:lang="en">Gavriil</author>
+        <author xml:lang="en">Ivanovich</author>
+        <author xml:lang="en">Golovkin</author>
+        <author xml:lang="en">Petr</author>
+        <author xml:lang="en">Pavlovich</author>
+        <author xml:lang="de">Шафиров </author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Languages of Diplomacy Digital Edition</edition>
+        <editor>
+          <persName ref="#rjeoutski">
+            <surname>Rjeoutski</surname>
+            <forename>Vladislav</forename>
+          </persName>
+        </editor>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#borisov">
+            <surname>Borisov</surname>
+            <forename>Viktor</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#kandakou">
+            <surname>Kandakou</surname>
+            <forename>Dzianis</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#lavrinovich">
+            <surname>Lavrinovich</surname>
+            <forename>Maya</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#sergeev">
+            <surname>Sergeev</surname>
+            <forename>Mikhail</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#herzog">
+            <surname>Herzog</surname>
+            <forename>André</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#wallner">
+            <surname>Wallner</surname>
+            <forename>Karin</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#pipka">
+            <surname>Rißler-Pipka</surname>
+            <forename>Nanette</forename>
+          </persName>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName role="hostingInstitution" xml:lang="de">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-08-30">30. August 2024</date>
+        <availability xml:id="availability-textsource-1" corresp="#textsource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <availability xml:id="availability-imagesource-1" corresp="#imagesource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <idno>
+          <idno type="project_id">lod</idno>
+        </idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main" level="s">Languages of eighteenth-century diplomacy</title>
+        <title type="sub" level="s">Russia in a European context</title>
+      </seriesStmt>
+      <sourceDesc>
+        <p>TODO</p>
+      </sourceDesc>
+    </fileDesc>
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><profileDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <head>
+          <title>30 September / 11 October 1719. – Resolution given by order of <persName key="p0174">His Tsarish Majesty [Peter I]</persName> on the memorandum presented by <persName key="p1345">Mister James Jeffreys, Resident of Great Britain</persName></title><note>
+            <bibl>TNA Kew, Russia, no. SP 91-9, f. 344-344v. French copy.</bibl>
+          </note>
+        </head>
+        <pb n="f. 344"/>
+        <p> Resolution don[n]ée par ordre de <persName key="p0174">S[a] M[ajesté] Czarienne</persName> sur le
+          memoire presenté par <persName key="p1345">M[onsieu]r Jaques Jefferys Resident de la Grande Bretagne</persName></p>
+        <p/>
+        <p><persName key="p0174">S[a] M[ajesté] Czarienne Notre très gracieux Czar et Souverain</persName>, après avoir été
+          informé
+          du contenû du Memoire presenté par le Resident Brittanique, a ordonné de faire surle dit
+          Memoire la reponse suivante ; savoir que <persName key="p0174">S[a] M[ajesté]</persName> bien loin d’etre
+          accoutumée
+          a forcer qui que ce soit des Nations etrangeres engagé dans Son service ou etabli dans Ses
+          Etats a la continuation de Ses services, ou de le retenir dans Ses Etats contre Sa propre
+          volonté, les avoit plustôt laissé quitter Son service avec la même liberté qu’ils
+          l’avoient
+          accepté, et n’avoit jamais refusé a aucun d’eux Sa dimission, pourvû qu’il l’eut cherché
+          d’une maniere convenable et que le tems stipulé dans Leurs conventions fût expiré, mais
+          qu’il les avoit tousjours congediez avec des marques de bonté et de faveurs et pourveu de
+          passeports ; De la même maniere on en a usé a l’egard des Anglois, Officiers,
+          Constructeurs
+          de Vaisseau, Artistes et Artisans qui se sont trouvé dans le service de <persName key="p0174">S[a] M[ajesté] Czarienne</persName>; Or comme jusqu’a present aucun d’eux n’a sollicité pour avoir Son
+          congé
+          ou passeport, M[onsieu]r. le Resident ne scauroit nullement pretendre de <persName key="p0174">S[a] M[ajesté] Cz[ari]enne</persName> qu’Elle fasse sortir par force de Ses Etats des gens libres pour
+          l’avoir bien servi, d’autant moins que la pluspart d’eux, en particulier Les Constructeurs
+          de Vaisseau se sont </p>
+        <pb n="f. 344v"/>
+        <p> engagés dans Son service avec le consentement du <persName key="p0620">Roy Guillaume</persName> et de la <persName key="p0668">Reine Anne</persName> de glorieuse mémoire, parmi lesquels il y en a même qui par un effet de
+          reconnoissance se sont obligé [sic] de Leur propre mouvement a passer Leurs jours dans le
+          service de <persName key="p0174">S[a] M[ajesté]</persName> Lesquels par consequence doivent etre considerés
+          comme des sujets naturalisés, de sorte qu’on ne sçauroit trouver par quel droit
+          M[onsieu]r le Resident peut demander Leur dimission. Toutesfois si quelques Anglois qui
+          se sont engagés au service de <persName key="p0174">S[a] M[ajesté]</persName> pour un certain temps demanderont
+          d’une maniere convenable Leur dimission, après avoir effectué ce qu’ils se sont obligés de
+          faire selon Leurs conventions, et après avoir fini les ouvrages qu’ils ont actuellement
+          entre les mains; <persName key="p0174">S[a] M[ajesté] Cz[ari]enne</persName> n’est nullement intentionée de le [sic] faire rester a Son service contre gré, mais plustôt de le congedier gracieusement. Donné a
+<placeName key="g0002" ref="https://www.geonames.org/498817">S[ain]<hi cert="high" generatedBy="human" rendition="#sup" xml:space="default">t</hi> Petersbourg</placeName> le 30 de Sept[embre] v[ieux] st[yle] 1719.</p>
+        <p><persName key="p0071">Comte Gollowkin Chancellier</persName></p>
+        <p><persName key="p0494">Baron de Schafirow Vice Chanc[elier]</persName></p>
+        <p/>
+        <p>In M[ister] Jeffrys 7th Nov[ember] 1719</p>
+        <noteGrp>
+          <note>See also:</note>
+          <note>en_na_russia_sp_91-9_0005</note>
+        </noteGrp>
+      </div>
+    </body>
+  </text>
+</TEI>

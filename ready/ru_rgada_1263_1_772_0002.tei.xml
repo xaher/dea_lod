@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/gbv/dea_lod/main/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="en">Letter from the Councillor of the Russian Legation to the
+          Imperial Court, Count Aleksandr Romanovich Vorontsov, to the Russian Envoy Extraordinary
+          to London, Prince Aleksandr Mikhailovich</title>
+        <author xml:lang="en">Aleksandr</author>
+        <author xml:lang="en">Romanovich</author>
+        <author xml:lang="en">Vorontsov </author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Languages of Diplomacy Digital Edition</edition>
+        <editor>
+          <persName ref="#rjeoutski">
+            <surname>Rjeoutski</surname>
+            <forename>Vladislav</forename>
+          </persName>
+        </editor>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#borisov">
+            <surname>Borisov</surname>
+            <forename>Viktor</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#kandakou">
+            <surname>Kandakou</surname>
+            <forename>Dzianis</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#lavrinovich">
+            <surname>Lavrinovich</surname>
+            <forename>Maya</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#sergeev">
+            <surname>Sergeev</surname>
+            <forename>Mikhail</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#herzog">
+            <surname>Herzog</surname>
+            <forename>André</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#wallner">
+            <surname>Wallner</surname>
+            <forename>Karin</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#pipka">
+            <surname>Rißler-Pipka</surname>
+            <forename>Nanette</forename>
+          </persName>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName role="hostingInstitution" xml:lang="de">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-08-30">30. August 2024</date>
+        <availability xml:id="availability-textsource-1" corresp="#textsource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <availability xml:id="availability-imagesource-1" corresp="#imagesource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <idno>
+          <idno type="project_id">lod</idno>
+        </idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main" level="s">Languages of eighteenth-century diplomacy</title>
+        <title type="sub" level="s">Russia in a European context</title>
+      </seriesStmt>
+      <sourceDesc>
+        <p>TODO</p>
+      </sourceDesc>
+    </fileDesc>
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><profileDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <head>
+          <title> 18 May 1761. – Letter from <persName key="p1080">the Councilor of the Russian Legation to
+              London, Ivan Alekseevich Vorontsov</persName>, to <persName>the Russian Envoy Extraordinary to London, Prince Aleksandr Mikhailovich Golitsyn</persName>
+          </title>
+          <note>
+            <bibl>RGADA, fond 1263, opis 1, no. 772, f. 3-3v, 4v. French original.</bibl>
+          </note>
+        </head>
+        <pb n="f. 3"/>
+        <p> </p>
+        <p>Monseigneur,</p>
+        <p>J’ai reçu avec beaucoup de reconnaissance la lettre dont il a plû a votre Excellence de
+          m’honorer endatte du 5. du courant, dans la quelle Votre Excellence me fait la grace de me
+          reiterer la Continuation de sa bienveillance, de quelle Je tacherois de me rendre digne,
+          et de cesir avec beaucoup d’empressement tous les occasions qui s’y presenteront de
+          temoigner à Votre Excellence ma plus sincere gratitude de reconnaissance de tous les
+          bienfaits que J’ai reçu de vous.</p>
+        <p>Je n’ai point voulu manquer de profiter de l’occasion d’envoyer à Votre Excellence, par
+          la Voyë de <persName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" key="p2290" xml:space="default">Mademoiselle</persName>
+        </p>
+        <pb n="f. 3v"/>
+        <p>
+          <persName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" key="p2290" xml:space="default">Secraitant</persName>, qui est Gouvernante de la jeune <persName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" key="p2289" xml:space="default">Demoiselle de La Duchesse d’Hamilton</persName>, qui est parti d’ici hier
+          matin, une paquet avec de galon d’argent en gaze pour un habit, que j’ai reçu de <persName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" xml:space="default" key="p2288">Mr le Baron de Bourgenchroda</persName>, et la boite de la montre que Votre
+          Excellence recevra aussi de la même personne, à compagné [sic] d’une lettre de Son Excellence <persName key="p0066" ref="58cfb2b1-9a42-4cd7-b4d4-39fa3124f264">Monsieur le Prince de Galitzin</persName>,
+          et ici j’ai l’honneur de joindre la liste de tous ce qui contient le Paquet.</p>
+        <p>J’ai l’honneur d’etre avec des sentimens de La plus haute et plus distinguée
+          consideration, et attachement devouë pour Votre personne, </p>
+        <p>Monseigneur </p>
+        <p>de Votre Excellence</p>
+        <p>Le trés humble et très</p>
+        <p>obeissant Serviteur </p>
+        <p><persName key="p1080">I: Woronzoff</persName>
+        </p>
+        <p>à <placeName key="g0019" ref="https://www.geonames.org/2988507">Paris</placeName> ce 18. may </p>
+        <p>1761.</p>
+        
+        <pb n="f. 4v"/>
+        <p><note>From here, written in a different handwriting:</note></p>
+        <p>
+          <placeName key="g0019" ref="https://www.geonames.org/2988507">Paris</placeName> 18. mai 1761.</p>
+        <p>
+          <persName key="p1080">Mr de Woronzow</persName>
+        </p>
+        <noteGrp>
+          <note>See also:</note>
+          <note>ru_rgada_1263_1_772_0001</note>
+          <note>ru_rgada_1263_1_772_0003</note><note>ru_rgada_1263_1_772_0005</note></noteGrp></div>
+    </body>
+  </text>
+</TEI>

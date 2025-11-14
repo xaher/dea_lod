@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/gbv/dea_lod/main/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="en">Letter from the Ambassador Extraordinary and
+          Plenipotentiary of Great Britain to Russia, Earl of Hyndford, to the chancellor of the
+          Russian Empire, Count Aleksei Petrovich Bestuzhev-Riumin </title>
+        <author xml:lang="en">John</author>
+        <author xml:lang="en">Carmichael,</author>
+        <author xml:lang="en">Earl</author>
+        <author xml:lang="en">of</author>
+        <author xml:lang="en">Hyndford</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Languages of Diplomacy Digital Edition</edition>
+        <editor>
+          <persName ref="#rjeoutski">
+            <surname>Rjeoutski</surname>
+            <forename>Vladislav</forename>
+          </persName>
+        </editor>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#borisov">
+            <surname>Borisov</surname>
+            <forename>Viktor</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#kandakou">
+            <surname>Kandakou</surname>
+            <forename>Dzianis</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#lavrinovich">
+            <surname>Lavrinovich</surname>
+            <forename>Maya</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#sergeev">
+            <surname>Sergeev</surname>
+            <forename>Mikhail</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#herzog">
+            <surname>Herzog</surname>
+            <forename>André</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#wallner">
+            <surname>Wallner</surname>
+            <forename>Karin</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#pipka">
+            <surname>Rißler-Pipka</surname>
+            <forename>Nanette</forename>
+          </persName>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName role="hostingInstitution" xml:lang="de">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-08-30">30. August 2024</date>
+        <availability xml:id="availability-textsource-1" corresp="#textsource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <availability xml:id="availability-imagesource-1" corresp="#imagesource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <idno>
+          <idno type="project_id">lod</idno>
+        </idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main" level="s">Languages of eighteenth-century diplomacy</title>
+        <title type="sub" level="s">Russia in a European context</title>
+      </seriesStmt>
+      <sourceDesc>
+        <p>TODO</p>
+      </sourceDesc>
+    </fileDesc>
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/gbv/dea_lod/main/ready/en_na_russia_sp_91-111_0006.tei.xml?place_annotation_20250204145044169",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-02-04T13:50:44.169Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/DzianisKandakou",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Dzianis Kandakou"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/gbv/dea_lod/main/ready/en_na_russia_sp_91-111_0006.tei.xml?place_annotation_20250204145044169#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/gbv/dea_lod/main/ready/en_na_russia_sp_91-111_0006.tei.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/gbv/dea_lod/main/ready/en_na_russia_sp_91-111_0006.tei.xml?place_annotation_20250204145044169#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://geonames.org/498817",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData><profileDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <head>
+          <title>20 / 31 May 1748. – Letter from <persName key="p0776">the Ambassador Extraordinary and Plenipotentiary of Great Britain to Russia, John Carmichael, Earl of Hyndford</persName>, to <persName key="p0017">the Chancellor of the Russian Empire, Count Aleksei Petrovich Bestuzhev-Riumin</persName></title>
+          <note>
+            <bibl>TNA Kew, Russia, no. SP 91-111, s.f. French copy.</bibl>
+          </note>
+        </head>
+        <p>Copie</p>
+        <p><placeName key="Saint Petersburg St.-Petersburg Russia" ref="https://geonames.org/498817">S[ain]t Petersbourg</placeName>, le 20. Mai 1748.</p>
+        <p>Monsieur,</p>
+        <p>C’est avec le plus grand regret &amp; bien malgré moi que je me trouve dans la necessité
+          de me plaindre à V[otre] E[xcellence] du procedé violent de <persName key="p2085">M[onsieu]r le L[ieutenan]t General Samaracoff</persName> envers moi. Quoique le cas en question soit d’une nature que
+          je ne saurois le passer sous silence, &amp; que peut-être tout autre que moi en auroit
+          fait une affaire ministeriale ; cependant comme j’ai reçu tant de preuves des bontez &amp;
+          des graces de <persName key="p0052">S[a] M[ajesté] l’Imperatrice</persName>, je suis plus que persuadé, qu’Elle
+          ne pourra que desaprouver l’insulte, qui m’a été faite par Son ecuyer, &amp; qu’il Lui
+          plaira gracieusement de me faire avoir une ample satisfaction sur ce sujet. Pour cette
+          raison je me contente d’écrire cette lettre amicale à V[otre] E[xcellence] pour l’informer
+          des circonstances du fait, tel que le bas officier de ma garde, mon jardinier &amp; mon
+          concierge me l’ont raporté de la campagne, &amp; que voici.</p>
+        <p>« Le 15<hi rendition="#sup">e</hi> Mai un cocher &amp; quelques palfreniers de <persName key="p0052">S[a] M[ajesté] I[mpériale]</persName> étant entrez avec dix attelages de ses chevaux dans
+          l’enclos de ma campagne, ont d’abord demandé du foin &amp; de la paille. Le concierge ne
+          trouvant pas à propos de le donner, sans savoir pour qui &amp; sur l’ordre de qui<pb/> ils le
+          demandoient, il eut pour réponse, que c’étoit pour les chevaux de <persName key="p0052">S[a] M[ajesté] I[mpériale]</persName> &amp; par ordre de Son écuyer, <persName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" key="p2085" xml:space="default">M[onsieu]r Samaracoff</persName>, &amp;
+          que si lui le concierge tardoit à le faire, il y feroit porté à coups de fouët &amp; de
+          bâton, ensorte [sic] que, pour éviter d’être maltraité, il leur remis la clef d’une écurie
+          pendant qu’ils ont cassé la serrure de l’autre pour y entrer de force. Là-dessus le
+          Caporal de la garde voulant s’oposer à cette violence, le dit cocher lui dit, qu’ils y
+          étoient envoyez de <persName key="p0052">S[a] M[ajesté]</persName> Elle-même &amp; de leur commandant, savoir
+          <persName key="p2085">M[onsieu]r Samaracoff</persName>. Le concierge atteste encore, qu’ils se sont saisis de la
+          moitié d’une charettée de foin &amp; de paille &amp; qu’ils y ont brisé les brouëttes
+          &amp; les traineaux. Mon maître d’hôtel, ayant été informé de tout ceci par le jardnier, s
+          y rendit incessament, &amp; ayant demandé au dit cocher, par quel ordre il en avoit agi de
+          la sorte à la campagne d’un Ambassadeur, il lui a pareillement répondu, que c’étoit par
+          ordre de <persName key="p2085">M[onsieu]r Samaracoff</persName> ».</p>
+        <p>Et pour preuve de ces allegations j’envoye ci-joint à V[otre] E[xcellence] les
+          temoignages des dits bas officier, jardinier &amp; concierge, signez de leurs propres
+          mains.<pb/></p>
+        <p>Au reste, Monsieur, je me repose sur l’amitié de V[otre] E[xcellence] pour l’usage,
+          qu’Elle trouvera à propos de faire de cette lettre, &amp; des pièces y jointes, &amp; j’ai
+          l’honneur d’être etc.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

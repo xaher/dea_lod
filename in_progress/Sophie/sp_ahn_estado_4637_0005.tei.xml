@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/gbv/dea_lod/main/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="en">French translation of the foregoing harangue [the speech of
+          the minister plenipotentiary of Spain in Russia Marquis of Almodovar to the Grand Duke of
+          Russia Pavel Petrovich]</title>
+        <title type="main" xml:lang="es">Traduccion en Lengua Francesa Conq. se acompaño la Arenga
+          antezed[en]te</title>
+        <author xml:lang="en">Pedro</author>
+        <author xml:lang="en">Francisco</author>
+        <author xml:lang="en">Jiménez</author>
+        <author xml:lang="en">de</author>
+        <author xml:lang="en">Góngora</author>
+        <author xml:lang="en">y</author>
+        <author xml:lang="en">Luján,</author>
+        <author xml:lang="en">Marquis</author>
+        <author xml:lang="en">of</author>
+        <author xml:lang="en">Arlmodovar</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Languages of Diplomacy Digital Edition</edition>
+        <editor>
+          <persName ref="#rjeoutski">
+            <surname>Rjeoutski</surname>
+            <forename>Vladislav</forename>
+          </persName>
+        </editor>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#borisov">
+            <surname>Borisov</surname>
+            <forename>Viktor</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#kandakou">
+            <surname>Kandakou</surname>
+            <forename>Dzianis</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#lavrinovich">
+            <surname>Lavrinovich</surname>
+            <forename>Maya</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#sergeev">
+            <surname>Sergeev</surname>
+            <forename>Mikhail</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#herzog">
+            <surname>Herzog</surname>
+            <forename>André</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#wallner">
+            <surname>Wallner</surname>
+            <forename>Karin</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#pipka">
+            <surname>Rißler-Pipka</surname>
+            <forename>Nanette</forename>
+          </persName>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName role="hostingInstitution" xml:lang="de">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-08-30">30. August 2024</date>
+        <availability xml:id="availability-textsource-1" corresp="#textsource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <availability xml:id="availability-imagesource-1" corresp="#imagesource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <idno>
+          <idno type="project_id">lod</idno>
+        </idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main" level="s">Languages of eighteenth-century diplomacy</title>
+        <title type="sub" level="s">Russia in a European context</title>
+      </seriesStmt>
+      <sourceDesc>
+        <p>TODO</p>
+      </sourceDesc>
+    </fileDesc>
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><profileDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <head>
+          <title>
+            [September 1761] – French translation of the foregoing harangue [the speech by <persName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" key="p0225" xml:space="default">the Minister Plenipotentiary of Spain in Russia, Marquis de Almodóvar,</persName> to <persName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" key="p0438" xml:space="default">the Grand Duke of Russia Pavel Petrovich]</persName></title></head><note>
+            <bibl>Archivo Histórico Nacional, Estado, no. 4637, s. f. French translation of Spanish
+              original.</bibl></note><pb/>
+        <opener>
+          <note>Traduccion en Lengua Francesa</note>
+          <note>Conq. se acompaño la Arenga antezed[en]te</note>
+          <salute>Monseigneur.</salute>
+        </opener>
+        <p>Le Principe, et le fondement de l’harmonie pretieuse aux deux Nations à eté l’amour
+          naturel, et assez connu du <persName key="p0036" ref="ea287231-8c1a-4b60-a8c3-1c4885e94d54">Roy</persName>, et de <persName key="p0052" ref="afc1e8df-6410-4e68-80dd-abcafa754aa6">Sa Majesté Imperiale</persName> à tant des
+          sujes [sic !], que la Divine Providence â confié â leurs soins dans les deux vastes
+          Empires : ce lien forme une union, dont la duree est bien plus assuré, que celles qui
+          n’ont pour base, que certains interests, que des circonsances établissent, et que d’autres
+          evenements detruisent â son tour : il n’y a rien que puisse autat me flater que cette
+          consideracion ; me prometant par là depouvoirr longtemps faire ma cour à <persName key="p0438" ref="b200d521-e964-435a-9090-11a5c4f0e590">V[otre] A[ltesse] I[mpériale]</persName>
+          pour lui convaincre de mon profond respect, et admirer dans son enfance les marques que
+          sans doute donnera d’imiter un jour son tres <persName key="p0115" ref="e958d8b8-e12f-4ac9-b67f-d19c20fb4dcc">Auguste Pere</persName>, et ses Glorieux
+          Predecesseurs.</p>
+        <noteGrp>
+          <note>Translation of: sp_ahn_estado_4637_0003</note>
+        </noteGrp>
+      </div>
+    </body>
+  </text>
+</TEI>

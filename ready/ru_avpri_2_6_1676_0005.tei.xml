@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/gbv/dea_lod/main/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="en">Exercise letter by Prince Aleksandr Sergeevich Dolgorukov
+          with parallel texts in French and Italian</title>
+        <author xml:lang="en">Aleksandr</author>
+        <author xml:lang="en">Sergeevich</author>
+        <author xml:lang="en">Dolgorukov</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Languages of Diplomacy Digital Edition</edition>
+        <editor>
+          <persName ref="#rjeoutski">
+            <surname>Rjeoutski</surname>
+            <forename>Vladislav</forename>
+          </persName>
+        </editor>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#borisov">
+            <surname>Borisov</surname>
+            <forename>Viktor</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#kandakou">
+            <surname>Kandakou</surname>
+            <forename>Dzianis</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#lavrinovich">
+            <surname>Lavrinovich</surname>
+            <forename>Maya</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#sergeev">
+            <surname>Sergeev</surname>
+            <forename>Mikhail</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#herzog">
+            <surname>Herzog</surname>
+            <forename>André</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#wallner">
+            <surname>Wallner</surname>
+            <forename>Karin</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#pipka">
+            <surname>Rißler-Pipka</surname>
+            <forename>Nanette</forename>
+          </persName>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName role="hostingInstitution" xml:lang="de">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-08-30">30. August 2024</date>
+        <availability xml:id="availability-textsource-1" corresp="#textsource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <availability xml:id="availability-imagesource-1" corresp="#imagesource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <idno>
+          <idno type="project_id">lod</idno>
+        </idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main" level="s">Languages of eighteenth-century diplomacy</title>
+        <title type="sub" level="s">Russia in a European context</title>
+      </seriesStmt>
+      <sourceDesc>
+        <p>TODO</p>
+      </sourceDesc>
+    </fileDesc>
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><profileDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <head>
+          <title> 9 December 1746. – Exercise letter by <persName key="p0829" ref="b51ad807-64e4-4503-ba04-7e61f8c3bb5b">Prince Aleksandr Sergeevich Dolgorukov</persName>
+            with parallel texts in French and Italian </title>
+          <note>
+            <bibl>AVPRI, fond 2 VKD, opis 6, no. 1676, f. 8. French original and Italian
+              translation.</bibl>
+          </note>
+        </head>
+        <pb n="f. 8"/>
+        
+        <p>
+          Tradotto dal francese in italiano
+        </p>
+          
+        <table>
+          <row>
+            <cell xml:lang="fr">
+              Comme vous avés surpassé en toute sorte de vertus l’attente qu’on s’étoit formée de vôtre jeunesse, on peut aussi dire que vous vous êtes surmonté vous même dans la généreuse résolution que vous avez prise d’aller pendant la délicatesse de votre âge vous exercer dans les armes en Allemagne. Mais puisqu’en prenant ce dessein vous êtes poussé par une fin si juste, comme est celle de s’employer pour l’intérêt de l’état ; on ne doit pas douter pour cet effet que Dieu ne vous donne des forces au dessus de vôtre âge, et une fortune qui surmontera tous les dangers. Allés donc heureusement et j’espère qu’à vôtre retour vous serés receu avec de bien plus grands applaudissemens que ceux qui accompagnent présentement votre départ. Cependant je vous rends de très humble grâces, de l’obligeante lettre que vous m’avés fait l’honneur de m’écrire en cette occasion, étant toujours, Monsieur
+            </cell>
+            <cell xml:lang="it">
+              V.S. havendo in ogni sorte di virtù superato la speranza che s’era formata della sua gioventù, si può dire ancora che si sia passato stesso nella generosa risoluzione ch’hà presa d’andar per esserciarsi nelle armi in Germania. Mà poiche pigliando questo disegno, V.S. hà un fine si giusto, come d’impiegarsi per l’utilità dello stato, non si deve dubitar per questa raggione che Dio non gli somministri forze soprà la sua età, ed una fortuna la quale sorpassera tutt’i pericoli. Vada dunque V.S. felicemente, e spero ch’al suo ritorno sarà ricevuta con molto maggiori applausi di quelli ch’accompagnano presentamente la sua partenza. Ringrazio pure molto humilmente V.S. della gratiosa lettera che m’hà fatto l’honore di scrivermi in questa occasione essendo sempre,
+            </cell>
+          </row>
+          <row>
+            <cell xml:lang="fr">
+              Vôtre très humble serviteur.
+            </cell>
+            <cell xml:lang="it">
+              Di V.S. Humilissimo servo.
+            </cell>
+          </row>
+        </table>
+
+        <p>Tradotto nel <orgName key="o0006" ref="171110b7-5487-4f01-a8b9-28103f4f2159">Corpo Nobile
+          dei Cadetti</orgName>
+        </p>
+        <closer>
+          <dateline>Il <date when="1746-12-09">9. di Dicembre 1746</date>
+          </dateline>
+          <signed>
+            <persName key="p0829" ref="b51ad807-64e4-4503-ba04-7e61f8c3bb5b">Pr. Alexander Dolgoruky</persName>
+          </signed>
+        </closer>
+        <noteGrp>
+          <note>See also:</note>
+          <note>ru_avpri_2_6_1676_0001</note>
+          <note>ru_avpri_2_6_1676_0002</note>
+          <note>ru_avpri_2_6_1676_0003</note>
+          <note>ru_avpri_2_6_1676_0004</note>
+          <note>ru_avpri_2_6_1676_0006</note>
+          <note>ru_avpri_2_6_1676_0007</note>
+          <note>ru_avpri_2_6_1676_0008</note>
+          <note>ru_avpri_2_6_1676_0009</note>
+        </noteGrp>
+      </div>
+    </body>
+  </text>
+</TEI>

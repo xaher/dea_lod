@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/gbv/dea_lod/main/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="en">Letter from Chancellor, Count Gavrila Ivanovich Golovkin
+          to the Russian Envoy Extraordinary to Hanover, Baron Hans Christoph of Schleinitz</title>
+        <author xml:lang="en">Gavrila</author>
+        <author xml:lang="en">Ivanovich</author>
+        <author xml:lang="en">Golovkin</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Languages of Diplomacy Digital Edition</edition>
+        <editor>
+          <persName ref="#rjeoutski">
+            <surname>Rjeoutski</surname>
+            <forename>Vladislav</forename>
+          </persName>
+        </editor>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#borisov">
+            <surname>Borisov</surname>
+            <forename>Viktor</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#kandakou">
+            <surname>Kandakou</surname>
+            <forename>Dzianis</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#lavrinovich">
+            <surname>Lavrinovich</surname>
+            <forename>Maya</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#sergeev">
+            <surname>Sergeev</surname>
+            <forename>Mikhail</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#herzog">
+            <surname>Herzog</surname>
+            <forename>André</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#wallner">
+            <surname>Wallner</surname>
+            <forename>Karin</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#pipka">
+            <surname>Rißler-Pipka</surname>
+            <forename>Nanette</forename>
+          </persName>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName role="hostingInstitution" xml:lang="de">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-08-30">30. August 2024</date>
+        <availability xml:id="availability-textsource-1" corresp="#textsource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <availability xml:id="availability-imagesource-1" corresp="#imagesource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <idno>
+          <idno type="project_id">lod</idno>
+        </idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main" level="s">Languages of eighteenth-century diplomacy</title>
+        <title type="sub" level="s">Russia in a European context</title>
+      </seriesStmt>
+      <sourceDesc>
+        <p>TODO</p>
+      </sourceDesc>
+    </fileDesc>
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><profileDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <head>
+          <title>29 January 1712. – Letter from <persName key="p0071" ref="24bb7406-5f3c-4b98-99a4-9e9e8b4cdefd">Chancellor Count Gavrila Ivanovich
+            Golovkin</persName> to <persName key="p0732" ref="664ac595-5d21-4dd3-968f-4870616e9a54">the Russian Envoy Extraordinary to Hanover,
+            Baron Hans Christoph of Schleinitz</persName>
+          </title>
+          <note>
+            <bibl>RGADA, fond 47, opis 1, 1712, no. 2, f. 1–2. German draft. </bibl>
+          </note>
+        </head>
+        <p>Russian summary: RGADA, fond 47, opis 1, 1712, no. 2, f. 2v.</p>
+        
+        <pb n="f. 1"/>
+        <p> № 1. An <persName key="p0732" ref="664ac595-5d21-4dd3-968f-4870616e9a54">Schleiniz</persName>
+        </p>
+        <p>
+          Wohlgebohrner Oberhoffmeister</p>
+        <p>[Inserted under the first line in a smaller handwriting:] hochgehrter [hochgeehrter] herr Envoyé
+          ExtraordinaireI
+        </p>
+        <p>Ew[er] wohlgeb[ohrnen] Relationes sub № 1, 2, &amp; 3: sind <hi cert="high" generatedBy="human" rendition="#s" xml:space="default">mit</hi> [next word is written on the left margin] vor <hi cert="high" generatedBy="human" rendition="#s" xml:space="default">letzterer Post</hi>  <hi cert="high" generatedBy="human" xml:space="default" rendition="#sup">drey tagen mit der Post</hi> hieselbst zugleich wohl eingeloffen; Da nun wegen der von allen
+          Orthen her [corrected from: hero] auf ein mahl eingekommenen [corrected from: "eingeloffenen"] vielen Briefen dieselbe noch nicht
+          völlig dechifriret, und interpretiret werden könne, alß kann selbige dißmahlen nicht
+          beandtworten; sondern muß solches [corrected from: "selbiges"] biß
+          auf die folgende Post aussetzen; Inzwischen <hi cert="high" generatedBy="human" rendition="#s" xml:space="default">so</hi> habe Ew[er] wohlgeb[ohrnen] vor den [corrected from: Dehro] <hi cert="high" generatedBy="human" rendition="#sup" xml:space="default">abgestatteten</hi> NeuJahrs wunsch hiermit freundtl[ich] dancken<hi cert="high" generatedBy="human" rendition="#s" xml:space="default"> ab wollen</hi>; und Ihnen [corrected from: de] gegentheils alles selbst erwünschte wohlergehen und vergnügen, <hi cert="high" generatedBy="human" rendition="#sup" xml:space="default">zu diesem</hi> und vielen </p>
+        <pb n="f. 1v"/>
+        <p> folgenden Jahren von hertzen anwünschen wollen; Die Relation derer Ew[er] wohlgeb[ohren]
+          in <hi cert="high" generatedBy="human" rendition="#sup" xml:space="default">dehro bericht sub</hi> № 2. gedencken in
+          dato <placeName key="g0032" ref="https://www.geonames.org/2945024">Braunschweig</placeName> d[en] 18<hi rendition="#sup">en </hi>Octob[ris] abgelaßen zu haben, ist nicht eingekommen und werden
+          Sie dem nach belieben davon das Duplicat zu übersenden, damit Ihnen benöthigte Resolution
+          darauf zugeschickt werden könne.</p>
+        <p>Aus <placeName key="g0018" ref="https://www.geonames.org/745044">Constantinopel</placeName> haben wir Nachricht daß
+          der [corrected from: des] <persName key="p0494" ref="73524c8b-20f0-4e11-abbd-ca70791d9df9">Reichs Vice Cantzlars –h[err] B[aron]
+          S[chafirof]</persName> [written above the crossed out: Excel[lenz].] daßelbst d[en] 28<hi rendition="#sup">ten</hi> Novemb[ris] st[ili] v[e]t[eris] angekommen ,die türcken Ihme [written above the crossed out: demselben] ein guthes Quartier
+          eingeräumet, auch [corrected from: und]. Er übrigens von denselben
+          wohl und honnet </p>
+        <pb n="f. 2"/>
+        <p> gehalten würde, da wir nun gestern von [corrected from: die] dem <persName key="p0735" ref="617946ce-cabb-41b7-9cc1-3c1540ddffb9">h[errn] Admiral Grafen Apraxin</persName> die
+          Nachricht erhalten daß d[en] 2<hi rendition="#sup">ten</hi> dieses st[ili] v[e]t[eris] <placeName key="g0189" ref="https://www.geonames.org/580054">Assof</placeName> dem dieserwegen abgeschickten
+          türckischen <persName key="p0748" ref="ed41c54c-c031-4b0e-8316-80c78fc3c6f3">Iuas Basla</persName> abgegeben worden, alß
+          zweifflen wir umb destoweniger, Oder ["O" is corrected from "d"]. die
+          turcken <hi cert="high" generatedBy="human" rendition="#sup" xml:space="default">werden</hi> den mit <persName key="p0174" ref="18dcae56-9273-4ff4-add5-3bc8328d0da2">Ihro Cz[arischen] M[ayestä]t</persName>
+          geschloßenen Frieden unverbruchlich, und feste conserviren [then crossed
+          out: werden]; was weitters hierinnen vorkommen mögte, davon soll [corrected
+          from: er], <hi cert="high" generatedBy="human" rendition="#s" xml:space="default">mangle nicht.</hi> Ew[er] Wohlgeb[ohren] communication
+          gegeben werden. p[erge] der Ich verharre p[erge]</p>
+        <p>
+          <placeName key="g0002" ref="https://www.geonames.org/498817">Petersburg</placeName> d[en]
+          29<hi rendition="#sup">ten</hi> Jan[uarii] 1712. st[ili] v[e]t[eris]</p>
+        
+        <pb n="f. 2v"/>
+        <p> Писмо черное к <persName key="p0732" ref="664ac595-5d21-4dd3-968f-4870616e9a54">Шлейницу</persName>, писаное от 29 генваря
+          1712 № 1. Руской нет.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

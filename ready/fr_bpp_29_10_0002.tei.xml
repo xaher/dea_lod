@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/gbv/dea_lod/main/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="en">Apostille [to the letter from Maximilian Magnus Alopaeus to the ambassador extraordinary and plenipotentiary of Russia to the Polish-Lithuanian Commonwealth, Count Jacob Johann von Sievers]</title>
+        <title type="main" xml:lang="fr">Apostille</title>
+        <author xml:lang="en">Maximilian</author>
+        <author xml:lang="en">Magnus</author>
+        <author xml:lang="en">Alopaeus</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Languages of Diplomacy Digital Edition</edition>
+        <editor>
+          <persName ref="#rjeoutski">
+            <surname>Rjeoutski</surname>
+            <forename>Vladislav</forename>
+          </persName>
+        </editor>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#borisov">
+            <surname>Borisov</surname>
+            <forename>Viktor</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#kandakou">
+            <surname>Kandakou</surname>
+            <forename>Dzianis</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#lavrinovich">
+            <surname>Lavrinovich</surname>
+            <forename>Maya</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#sergeev">
+            <surname>Sergeev</surname>
+            <forename>Mikhail</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#herzog">
+            <surname>Herzog</surname>
+            <forename>André</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#wallner">
+            <surname>Wallner</surname>
+            <forename>Karin</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#pipka">
+            <surname>Rißler-Pipka</surname>
+            <forename>Nanette</forename>
+          </persName>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName role="hostingInstitution" xml:lang="de">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-08-30">30. August 2024</date>
+        <availability xml:id="availability-textsource-1" corresp="#textsource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <availability xml:id="availability-imagesource-1" corresp="#imagesource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <idno>
+          <idno type="project_id">lod</idno>
+        </idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main" level="s">Languages of eighteenth-century diplomacy</title>
+        <title type="sub" level="s">Russia in a European context</title>
+      </seriesStmt>
+      <sourceDesc>
+        <p>TODO</p>
+      </sourceDesc>
+    </fileDesc>
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><profileDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <head>
+          <title>11 / 22 August 1793. – Apostille [to the letter from <persName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" key="p0269" xml:space="default">Maximilian Magnus Alopaeus</persName> to <persName key="p1145" ref="0b9b6516-7c5d-4e81-8ee7-051afa31ef4b">the Ambassador Extraordinary and Plenipotentiary of Russia to the Polish-Lithuanian Commonwealth, Count Jacob Johann von Sievers]</persName></title><note>
+            <bibl>Bibliothèque polonaise de Paris, fonds 29, no. 10, f. 1641–1642. French original.</bibl>
+          </note>
+        </head>
+        
+        <pb n="f. 1641"/>
+        
+        <p>Apostille</p>
+        <p>Ma lettre en date de ce jour étoit deja faite lorsque j’ai reçu celle que Votre Excellence a bien
+        voulu m’addresser le 4./15. de ce mois. Je n’ai pas perdu un instant d’en communiquer le contenu au ministère du
+        <persName key="p0884" ref="c858ab14-ad43-4701-8b22-cc34066d3383">Roi</persName>.
+        Tout en reconnoissant avec sensibilité les soins actifs de Votre Excellence, il m’a assuré d’être muni d’instructions trop precises et
+        trop positives pour oser prendre sur lui d’apporter le moindre changement à celles dont
+        <persName key="p1182" ref="79a36436-df87-41e7-9c79-bb49b0293d69">M[onsieu]r de Moellendorf</persName> et
+        <persName key="p1055" ref="70627504-c40b-4544-95e0-2084dc6a9e8b">M[onsieu]r de Buchholtz</persName>
+        sont pourvus, qui sentiroient probablement aussi le danger d’admettre de nouveaux delais dans une chose où le tems est un element essentiel du succès.</p>
+        <p>J’ai bien du regrêt de n’avoir rien de plus consolants à mander tout comme je suis vivement affligé de ce que la tournure inattendue de la negociation de
+        <persName key="p1055" ref="70627504-c40b-4544-95e0-2084dc6a9e8b">M[onsieu]r de Buchholtz
+        </persName> ait deja influé d’une manière très prejudiciable sur les operations militaires
+        de l’armée prussienne et par consequent sur les affaires generales de l’Europe.</p>
+        <p/>
+        <pb n="f. 1642"/>
+        <p> J’ai l’honneur de faire mes complimens sincères à Votre Excellence sur l’échange des ratifications, cet acte mettant le sceau à l’important ouvrage qui laisse un souvenir bien flatteur à tous ceux qui ont eu le bonheur d’y concourrir.</p>
+        <closer>
+          <salute>J’ai l’honneur d’être ut in litteris</salute>
+          <dateline>
+            <placeName key="g0012" ref="https://www.geonames.org/2950159">Berlin</placeName> ce 11./22. Aout 1793.</dateline>
+          <signed>
+            <persName key="p0269" ref="5d591c63-ed1c-4216-91e4-4108872629b0">Alopeuse</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

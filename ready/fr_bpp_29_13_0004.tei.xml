@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/gbv/dea_lod/main/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="en">Letter from the major general Friedrich Ludwig von der
+          Trenck, to the minister plenipotentiary of Russia to the Polish-Lithuanian Commonwealth,
+          Baron Otto Heinrich Igelström</title>
+        <author xml:lang="en">Friedrich</author>
+        <author xml:lang="en">Ludwig</author>
+        <author xml:lang="en">von</author>
+        <author xml:lang="en">der</author>
+        <author xml:lang="en">Trenck</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Languages of Diplomacy Digital Edition</edition>
+        <editor>
+          <persName ref="#rjeoutski">
+            <surname>Rjeoutski</surname>
+            <forename>Vladislav</forename>
+          </persName>
+        </editor>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#borisov">
+            <surname>Borisov</surname>
+            <forename>Viktor</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#kandakou">
+            <surname>Kandakou</surname>
+            <forename>Dzianis</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#lavrinovich">
+            <surname>Lavrinovich</surname>
+            <forename>Maya</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#sergeev">
+            <surname>Sergeev</surname>
+            <forename>Mikhail</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#herzog">
+            <surname>Herzog</surname>
+            <forename>André</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#wallner">
+            <surname>Wallner</surname>
+            <forename>Karin</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#pipka">
+            <surname>Rißler-Pipka</surname>
+            <forename>Nanette</forename>
+          </persName>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName role="hostingInstitution" xml:lang="de">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-08-30">30. August 2024</date>
+        <availability xml:id="availability-textsource-1" corresp="#textsource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <availability xml:id="availability-imagesource-1" corresp="#imagesource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <idno>
+          <idno type="project_id">lod</idno>
+        </idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main" level="s">Languages of eighteenth-century diplomacy</title>
+        <title type="sub" level="s">Russia in a European context</title>
+      </seriesStmt>
+      <sourceDesc>
+        <p>TODO</p>
+      </sourceDesc>
+    </fileDesc>
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><profileDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <head>
+          <title>11 April 1794. – Letter from <persName key="p1221" ref="91ef4377-29a1-409d-a64f-36d333618298">Major General Friedrich Ludwig von der
+            Trenck</persName>, to <persName key="p1158">the Minister Plenipotentiary of Russia in the Polish-Lithuanian Commonwealth, Baron Otto Heinrich Igelström</persName>
+          </title>
+          <note>
+            <bibl>Bibliothèque polonaise de Paris, fonds 29, no. 13, f. 1897. German original.</bibl>
+          </note>
+        </head>
+        <pb n="f. 1897"/>
+        <opener>
+          <salute>Hochwohlgebohrener Freyherr,</salute>
+          <salute>Hochzugebiethender Herr General en Cheff,</salute>
+        </opener>
+        <p>Sobald Ew[re] Exzellenz befehlen werden, oder ich bestim[m]t erfahre, daβ <persName key="p1219" ref="22403e04-a90e-4a78-bd03-de0c9dcdd2d1">der [Herr] General v[on]. Gruszczow</persName>
+          wieder alles Vermuthen von denen Confoederirten zurück nach <placeName key="g0009" ref="https://www.geonames.org/756135">Warschau</placeName>
+          gedrängt würde, so werde ich, nach der ordre des <persName key="p1220" ref="4d1eab10-6aa1-4741-96ea-15226075b87b">Herrn General Lieutenants Grafen von Schwerin</persName>,
+          sogleich mit allen Truppen, so vier Meilen um <placeName key="g0339" ref="https://www.geonames.org/3093066">Lowitz</placeName>
+          theils schon stehen, theils noch zu stehen kom[m]en, die Besetzung von <placeName key="g0339" ref="https://www.geonames.org/3093066">Lowitz</placeName> ausgenom[m]en, aufbrechen, und nach <placeName key="g0009" ref="https://www.geonames.org/756135">
+          Warschau</placeName> marschiren, wodurch ich den andrängden Feind in die Flancke nehmen
+          kann.</p>
+        <p>Um in Zeiten von diesem unvermutheten Vorfalle Nachricht zu haben, hat mein Vorgestern in <placeName key="g0340" ref="https://www.geonames.org/758682">Suchaczew</placeName> die ordre, genau alles abzuhören, was zwischen <placeName key="g0009" ref="https://www.geonames.org/756135">Warschau</placeName> und der Pilize
+          vorgehet; auch habe ich dem <persName key="p1219" ref="22403e04-a90e-4a78-bd03-de0c9dcdd2d1">Baron General von Gruschczow</persName> den
+          mir von Ew[rer] Exzellenz gewordenen Befehl, mit ihm in Verbindung zu seyn, bekand gemacht,
+          und glaube ich, hierdurch von allen aufs das schleunigste avertirt seyn zu können.</p>
+        <p>Ich vermuthe: dass durch die von Ew[rer] Exzellenz schon jezt genom[m]enen Maaßrägeln, die
+          ausgebrochene Confoederation in sich beendigt ist, solches aber gewiß geschiehet, wenn,
+          nachdem Höchstdieselben die Truppen von <placeName key="g0117" ref="https://www.geonames.org/3030300">Brest</placeName> und <placeName key="g0341" ref="https://www.geonames.org/765876">Lublin</placeName> zusam[m]en gezogen, der Feind gleich anfänglich angegriffen
+          und geschlagen wird.</p>
+        <closer>
+          <salute>Ich ersterbe mit dem vollkom[m]ensten Respeckt.</salute>
+          <salute>Ew[rer] Exzellenz</salute>
+          <salute>gantz unterthäniger Diener</salute>
+          <dateline>
+            <placeName key="g0339" ref="https://www.geonames.org/3093066">Lowicz</placeName>, <persName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" key="p1221" xml:space="default" ref="91ef4377-29a1-409d-a64f-36d333618298" type="signature">v[on] d[e]r Trenck</persName>
+            <date when="1794-04-11">d.
+            11-ten Aprill,</date>
+            <date>1794 :</date>
+          </dateline>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

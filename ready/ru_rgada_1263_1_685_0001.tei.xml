@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/gbv/dea_lod/main/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="en">Letter from translator in the Russian mission to Hamburg,
+          Karl Heinrich Baron of Bühler to Vice-Chancellor, Prince Aleksandr Mikhailovich Golitsyn</title>
+        <author xml:lang="en">Karl</author>
+        <author xml:lang="en">Heinrich</author>
+        <author xml:lang="en">Bühler</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Languages of Diplomacy Digital Edition</edition>
+        <editor>
+          <persName ref="#rjeoutski">
+            <surname>Rjeoutski</surname>
+            <forename>Vladislav</forename>
+          </persName>
+        </editor>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#borisov">
+            <surname>Borisov</surname>
+            <forename>Viktor</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#kandakou">
+            <surname>Kandakou</surname>
+            <forename>Dzianis</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#lavrinovich">
+            <surname>Lavrinovich</surname>
+            <forename>Maya</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#sergeev">
+            <surname>Sergeev</surname>
+            <forename>Mikhail</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#herzog">
+            <surname>Herzog</surname>
+            <forename>André</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#wallner">
+            <surname>Wallner</surname>
+            <forename>Karin</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#pipka">
+            <surname>Rißler-Pipka</surname>
+            <forename>Nanette</forename>
+          </persName>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName role="hostingInstitution" xml:lang="de">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-08-30">30. August 2024</date>
+        <availability xml:id="availability-textsource-1" corresp="#textsource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <availability xml:id="availability-imagesource-1" corresp="#imagesource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <idno>
+          <idno type="project_id">lod</idno>
+        </idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main" level="s">Languages of eighteenth-century diplomacy</title>
+        <title type="sub" level="s">Russia in a European context</title>
+      </seriesStmt>
+      <sourceDesc>
+        <p>TODO</p>
+      </sourceDesc>
+    </fileDesc>
+    
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><profileDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <head>
+          <title>13/24 December 1773. – Letter from <persName key="p0025" ref="4d6ea4fd-7523-4611-9334-f702e7ce0edf">the translator of the Russian mission in
+            Hamburg, Karl Heinrich Baron of Bühler</persName>, to <persName key="p0065" ref="c8f0f482-fa7d-4e84-ac52-891dcb4d2adb">Vice-Chancellor, Prince Aleksandr
+            Mikhailovich Golitsyn</persName>
+          </title>
+          <note>
+            <bibl>RGADA, fond 1263, opis 1, no. 685, f. 1-2v. French original.</bibl>
+          </note>
+        </head>
+
+        <pb n="f. 1"/>
+        
+        <p>Monseigneur,</p>
+        <p>Je sens un devoir indispensable en moi, Monseigneur, c’est de presenter à Votre Altesse
+          mes hommages au terme de cette année dans laquelle j’ai acquis la qualité glorieuse de La
+          respecter comme mon gracieux Chef.</p><p><note>In the lower margin:</note> A son Altesse
+          Monseigneur le <persName key="p0065">Prince Vice Chancelier</persName>
+        </p>
+        <pb n="f. 1v"/>
+        <p> Depuis que je me trouve dans cette heureuse situation, je travaille de toutes mes forces
+          pour me former sur le modele d’un <persName key="p0076" ref="6dae20a2-6921-4999-9ad3-271c5403b39d">Oncle</persName>, qui se distingue
+          particulièrement en fait de devotion pour l’illustre personne de Votre Altesse.</p>
+        <p>Oserai-je me flatter du meme succès Monseigneur, &amp; du meme gracieux accueil qu’il a
+          le bonheur d’obtenir de la part de Votre Altesse.</p>
+        
+        <pb n="f. 2"/>
+        <p> Je ne saurai faire des voeux plus empressés pour la conservation des precieux jours de
+          Votre Altesse, qu’en les conformant à ceux que mon <persName key="p0076" ref="6dae20a2-6921-4999-9ad3-271c5403b39d">Oncle</persName> a l’honneur de Lui adresser
+          à l’occasion de l’instant changement de l’année. Il n’y a sorte de contentement &amp; de
+          prosperité, que ses voeux ne destinent à Votre Altesse &amp; je me reserve de les
+          renouveller avec lui chaque jour dans cette intention.</p>
+        
+        <pb n="f. 2v"/>
+        <p> De grace, Monseigneur, accordés moi quelque part à Votre Protection respectable &amp;
+          daignés m’y faire entrer plus speciellement à mesure que Votre Altesse appercevra le
+          zele passionné &amp; la soumission respectueuse avec laquelle je demeurerai
+          inalterablement</p>
+        <p>Monseigneur</p>
+        <p>De Votre Altesse</p>
+        <p>le très humble &amp; très </p>
+        <p>obeissant serviteur</p>
+        <p>
+          <persName key="p0025" ref="4d6ea4fd-7523-4611-9334-f702e7ce0edf" type="signature">Bühler</persName>
+        </p>
+        <p>à <placeName key="g0011" ref="https://www.geonames.org/2911298">Hambourg</placeName>
+        </p>
+        <p>ce 13/24 Dec[embre] 1773</p>
+        <noteGrp>
+          <note>See also:</note>
+          <note>ru_rgada_1263_1_685_0002</note>
+        </noteGrp>
+      </div>
+    </body>
+  </text>
+</TEI>

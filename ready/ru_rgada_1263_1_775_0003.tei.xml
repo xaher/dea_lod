@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/gbv/dea_lod/main/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="en">Letter from the Russian Minister Plenipotentiary to The
+          Hague, Count Aleksandr Romanovich Vorontsov to Vice-Chancellor, Prince Aleksandr
+          Mikhailovich Golitsyn</title>
+        <author xml:lang="en">Aleksandr</author>
+        <author xml:lang="en">Romanovich</author>
+        <author xml:lang="en">Vorontsov</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Languages of Diplomacy Digital Edition</edition>
+        <editor>
+          <persName ref="#rjeoutski">
+            <surname>Rjeoutski</surname>
+            <forename>Vladislav</forename>
+          </persName>
+        </editor>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#borisov">
+            <surname>Borisov</surname>
+            <forename>Viktor</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#kandakou">
+            <surname>Kandakou</surname>
+            <forename>Dzianis</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#lavrinovich">
+            <surname>Lavrinovich</surname>
+            <forename>Maya</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#sergeev">
+            <surname>Sergeev</surname>
+            <forename>Mikhail</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#herzog">
+            <surname>Herzog</surname>
+            <forename>André</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#wallner">
+            <surname>Wallner</surname>
+            <forename>Karin</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#pipka">
+            <surname>Rißler-Pipka</surname>
+            <forename>Nanette</forename>
+          </persName>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName role="hostingInstitution" xml:lang="de">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-08-30">30. August 2024</date>
+        <availability xml:id="availability-textsource-1" corresp="#textsource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <availability xml:id="availability-imagesource-1" corresp="#imagesource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <idno>
+          <idno type="project_id">lod</idno>
+        </idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main" level="s">Languages of eighteenth-century diplomacy</title>
+        <title type="sub" level="s">Russia in a European context</title>
+      </seriesStmt>
+      <sourceDesc>
+        <p>TODO</p>
+      </sourceDesc>
+    </fileDesc>
+    
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><profileDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <head>
+          <title> 4/15 May 1764. – Letter from <persName key="p0144" ref="3238497b-c34f-43f2-82e2-efe7a3e15ce8">the Russian Minister Plenipotentiary
+              to the Hague, Count Aleksandr Romanovich Vorontsov</persName>, to <persName key="p0065" ref="c8f0f482-fa7d-4e84-ac52-891dcb4d2adb">Vice-Chancellor, Prince
+              Aleksandr
+              Mikhailovich Golitsyn</persName>
+          </title>
+          <note>
+            <bibl>RGADA, fond 1263, opis 1, no. 775, f. 9. French original.</bibl>
+          </note>
+        </head>
+        <pb n="f. 9"/>
+        
+        <p>Monsieur,</p>
+        <p>Ayant recu dans ce moment une lettre du <persName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" key="p1224" ref="3121a10e-0a39-454c-9711-7148f745e0c8" xml:space="default">Comte Piere Golovkin</persName> qu’il me prie de vous faire parvenir, jai l’honneur de
+          Vous lenvoyer profitant de cette occasion pour renouveller a Votre Excellence les
+          assurances, de mon sincere attachement.</p>
+        <p> Je serois très flaté, Monsieur, si vous jugéz apropos de memployer icÿ pour vos
+          comitions particulieres que jexecuterais avec beaucoup de zele et de plaisir desirant très
+          fort pouvoir convaincre Votre Excellence du parfait attachement à la consideration très
+          distingué avec laquelle je ne cesserai d’étre</p>
+        <p>Monsieur </p>
+        <p> de Votre Excellence</p>
+        <p>Le tres humble et très obeissant</p>
+        <p>Serviteur <persName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" key="p0144" xml:space="default" ref="3238497b-c34f-43f2-82e2-efe7a3e15ce8" type="signature">C[omte]
+            A[leksandr] de Woronzow</persName>
+        </p>
+        <p><note>In the left lower margin:</note> le 4/15 May 1764 <placeName key="g0004" ref="https://www.geonames.org/2747373">La Haye</placeName>
+        </p>
+        <noteGrp>
+          <note>See also:</note>
+          <note>ru_rgada_1263_1_772_0001</note>
+          <note>ru_rgada_1263_1_772_0002</note>
+          <note>ru_rgada_1263_1_772_0003</note>
+          <note>ru_rgada_1263_1_772_0004</note>
+          <note>ru_rgada_1263_1_772_0005</note>
+          <note>ru_rgada_1263_1_772_0006</note>
+          <note>ru_rgada_1263_1_772_0007</note>
+          <note>ru_rgada_1263_1_772_0008</note>
+          <note>ru_rgada_1263_1_773_0001</note>
+          <note>ru_rgada_1263_1_773_0002</note>
+          <note>ru_rgada_1263_1_773_0003</note>
+          <note>ru_rgada_1263_1_775_0001</note>
+          <note>ru_rgada_1263_1_775_0002</note>
+          <note>ru_rgada_1263_1_775_0004</note>
+          <note>ru_rgada_1263_1_775_0006</note>
+          <note>ru_rgada_1263_1_775_0007</note>
+        </noteGrp>
+      </div>
+    </body>
+  </text>
+</TEI>

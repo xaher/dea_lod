@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/gbv/dea_lod/main/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="en">[State Сhancellor of the Holy Roman Empire,] Prince Wenzel
+          Anton of Kaunitz. Letter to [Field Marshal Lieutenant,] Baron [Vincenz] of Barco</title>
+        <title type="main" xml:lang="ru">Кауниц, кн. Венцель-Антон-Доминик. П-мо к Барко, бар. </title>
+        <author xml:lang="en">Wenzel</author>
+        <author xml:lang="en">Anton</author>
+        <author xml:lang="en">Kaunitz</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Languages of Diplomacy Digital Edition</edition>
+        <editor>
+          <persName ref="#rjeoutski">
+            <surname>Rjeoutski</surname>
+            <forename>Vladislav</forename>
+          </persName>
+        </editor>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#borisov">
+            <surname>Borisov</surname>
+            <forename>Viktor</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#kandakou">
+            <surname>Kandakou</surname>
+            <forename>Dzianis</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#lavrinovich">
+            <surname>Lavrinovich</surname>
+            <forename>Maya</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#sergeev">
+            <surname>Sergeev</surname>
+            <forename>Mikhail</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#herzog">
+            <surname>Herzog</surname>
+            <forename>André</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#wallner">
+            <surname>Wallner</surname>
+            <forename>Karin</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#pipka">
+            <surname>Rißler-Pipka</surname>
+            <forename>Nanette</forename>
+          </persName>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName role="hostingInstitution" xml:lang="de">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-08-30">30. August 2024</date>
+        <availability xml:id="availability-textsource-1" corresp="#textsource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <availability xml:id="availability-imagesource-1" corresp="#imagesource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <idno>
+          <idno type="project_id">lod</idno>
+        </idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main" level="s">Languages of eighteenth-century diplomacy</title>
+        <title type="sub" level="s">Russia in a European context</title>
+      </seriesStmt>
+      <sourceDesc>
+        <p>TODO</p>
+      </sourceDesc>
+    </fileDesc>
+    
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/gbv/dea_lod/main/in_progress/Vlad/ru_niorrgb_255_5_2_0001.tei.xml?place_annotation_20250831094411946",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-08-31T07:44:11.946Z",
+	"dcterms:modified": "2025-08-31T07:44:11.946Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/DzianisKandakou",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Dzianis Kandakou"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/gbv/dea_lod/main/in_progress/Vlad/ru_niorrgb_255_5_2_0001.tei.xml?place_annotation_20250831094411946#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/gbv/dea_lod/main/in_progress/Vlad/ru_niorrgb_255_5_2_0001.tei.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.9.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/gbv/dea_lod/main/in_progress/Vlad/ru_niorrgb_255_5_2_0001.tei.xml?place_annotation_20250831094411946#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[13]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://www.geonames.org/2761369",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.9.0"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData><profileDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <head>
+          <title>2 May 1773. – <persName key="p0275" ref="73c4cfa7-5751-4c9d-8ecb-60b7c396ad1a">[State
+            Chancellor of the Holy Roman Empire,] Prince Wenzel Anton of Kaunitz</persName>. Letter
+            to <persName key="p0921" ref="917696ce-1902-4fa0-bcc7-80fe7abfc1d0">[Field Marshal
+            Lieutenant,] Baron [Vincenz] of Barco</persName>
+          </title>
+          <note>
+            <bibl>OR RGB, fond 255, karton 5, no. 2, f. 1. French original.</bibl>
+          </note>
+        </head>
+
+        <pb n="f. 1"/>
+
+        <p>Monsieur!</p>
+        <p/>
+        <p>Sous le 24. du Mois passé j’eus l’honneur de vous ecrire la lettre ci jointe en copie en
+          Faveur de <persName key="p0922" ref="7feaf9a3-2120-4cb0-97a8-733bc2b2fe56">M[onsieu]r de
+            Warnesius</persName>, Beau-frere de <persName key="p0927"> M[onsieu]r de Leykam Referendaire
+          Intime de l’Empire</persName>; Lettre qui aiant été par meprise confiée à la Poste
+          directement, pourra bien s’être égarée.</p>
+        <p>Comme depuis ce Tems j’ai recommandé ce <persName key="p0922" ref="7feaf9a3-2120-4cb0-97a8-733bc2b2fe56">M[onsieu]r de Warnesius</persName> à <persName key="p0066" ref="58cfb2b1-9a42-4cd7-b4d4-39fa3124f264">M[onsieu]r le Ministre de Russie P[rin]ce de
+          Galitzin</persName> par le Billet pareillement ci-joint; et que la Reponse de <persName key="p0066" ref="58cfb2b1-9a42-4cd7-b4d4-39fa3124f264">ce Ministre</persName>, que vous
+          trouverez encore ci-à-coté, conseille à <persName key="p0922" ref="7feaf9a3-2120-4cb0-97a8-733bc2b2fe56">cet officier</persName> de se rendre d’abord
+          à l’Armée de <persName key="p0124" ref="820f0254-6e50-437f-a3ae-b94f1140c8e3">Mons[ieu]r le
+          Comte de Romanzow</persName>: il partira encore ce soir, et aura l’honneur de vous
+          remettre Lui même cette Lettre.</p>
+        <p>Vous m’obligerez beaucoup, en vous emploïant pour cet officier, et en temoignant au
+          sus-dit <persName key="p0124" ref="820f0254-6e50-437f-a3ae-b94f1140c8e3">Mons[ieu]r le
+          General-en Chef</persName>, combien de part je prendrai à la Faveur, qu’il voudra Lui
+          accorder.</p>
+        <p>Je profite avec empressement de cette occasion, pour vous faire mon sincere compliment
+          sur la double grace, que L[eurs] M[ajestés] I[mpériales] viennent d’accorder à votre Merite, et suis avec
+          beaucoup de Consideration.</p>
+        <p/>
+        <p>Monsieur</p>
+        <p/>
+        <p>Votre très humble et très obeissant serviteur</p>
+        <p>
+          <persName key="p0275" ref="73c4cfa7-5751-4c9d-8ecb-60b7c396ad1a" type="signature">Kaunitz Rittberg</persName></p><p/><p>à <placeName key="g0005" ref="https://www.geonames.org/2761369">Vienne</placeName> le 2. May 1773.</p>
+        <p/>
+        <p>à <persName key="p0921" ref="917696ce-1902-4fa0-bcc7-80fe7abfc1d0">Mons[ieu]r le Baron de
+          Barco</persName>
+        </p>
+        <noteGrp>
+          <note>See also:</note>
+          <note>ru_niorrgb_255_5_2_0002</note>
+        </noteGrp>
+      </div>
+    </body>
+  </text>
+</TEI>

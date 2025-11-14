@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/gbv/dea_lod/main/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="en">Register of items released to the ministerial post in
+          Warsaw with their price</title>
+        <author xml:lang="en">Aleksandr</author>
+        <author xml:lang="en">Andreevich</author>
+        <author xml:lang="en">Bezborodko</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Languages of Diplomacy Digital Edition</edition>
+        <editor>
+          <persName ref="#rjeoutski">
+            <surname>Rjeoutski</surname>
+            <forename>Vladislav</forename>
+          </persName>
+        </editor>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#borisov">
+            <surname>Borisov</surname>
+            <forename>Viktor</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#kandakou">
+            <surname>Kandakou</surname>
+            <forename>Dzianis</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#lavrinovich">
+            <surname>Lavrinovich</surname>
+            <forename>Maya</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/edt">editor</resp>
+          <persName ref="#sergeev">
+            <surname>Sergeev</surname>
+            <forename>Mikhail</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#herzog">
+            <surname>Herzog</surname>
+            <forename>André</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#wallner">
+            <surname>Wallner</surname>
+            <forename>Karin</forename>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp ref="http://id.loc.gov/vocabulary/relators/eng">technical infrastructure</resp>
+          <persName ref="#pipka">
+            <surname>Rißler-Pipka</surname>
+            <forename>Nanette</forename>
+          </persName>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName role="hostingInstitution" xml:lang="de">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-08-30">30. August 2024</date>
+        <availability xml:id="availability-textsource-1" corresp="#textsource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <availability xml:id="availability-imagesource-1" corresp="#imagesource-1">
+          <licence target="http://creativecommons.org/lincenses/by-sa/4.0/">
+            <p>CC BY-SA 4.0</p>
+          </licence>
+        </availability>
+        <idno>
+          <idno type="project_id">lod</idno>
+        </idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title type="main" level="s">Languages of eighteenth-century diplomacy</title>
+        <title type="sub" level="s">Russia in a European context</title>
+      </seriesStmt>
+      <sourceDesc>
+        <p>TODO</p>
+      </sourceDesc>
+    </fileDesc>
+    
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><profileDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <head>
+          <title>[c. 19 July 1790]. – Register of items released to <orgName key="o0100" ref="42f6c5fa-0743-4e83-87ec-c0aa51f821d8">the Ministerial post in Warsaw</orgName>
+            with their price</title>
+          <note>
+            <bibl>Bibliothèque polonaise de Paris, fonds 29, no. 8, f. 1347-1349. Russian original.</bibl>
+          </note>
+        </head>
+        <pb n="f. 1347"/>
+        <p>Реестр вещам отпущенным для <orgName key="o0100" ref="42f6c5fa-0743-4e83-87ec-c0aa51f821d8">министерского варшавского поста</orgName>, с
+          показанием цены оным</p>
+        <p/>
+
+        <table>
+          <row>
+            <cell>
+              N°
+            </cell>
+            <cell/>
+            <cell xml:lang="ru">
+              Рубли
+            </cell>
+          </row>
+          <row>
+            <cell/>
+            <cell xml:lang="ru"> Табакерки.<lb/>Золотыя с брилиянтами </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              1.
+            </cell>
+            <cell xml:lang="ru">
+              Круглая арабесковая
+            </cell>
+            <cell>
+              1500.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              2.
+            </cell>
+            <cell xml:lang="ru">
+              –––––––––– лиловая
+            </cell>
+            <cell>
+              750.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              3.
+            </cell>
+            <cell>
+              Овальная с ландшафтом
+            </cell>
+            <cell>
+              750.
+            </cell>
+          </row>
+          <row>
+            <cell/>
+            <cell xml:lang="ru">
+              Без брилиянтов с амалью:
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              4.
+            </cell>
+            <cell xml:lang="ru">
+              Овальная капуциновая
+            </cell>
+            <cell>
+              400.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              5.
+            </cell>
+            <cell xml:lang="ru">
+              Продолговатая арабесковая
+            </cell>
+            <cell>
+              400.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              6.
+            </cell>
+            <cell xml:lang="ru">
+              Овальная синяя
+            </cell>
+            <cell>
+              400.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              7.
+            </cell>
+            <cell xml:lang="ru">
+              Круглая синяя с жемчугом
+            </cell>
+            <cell>
+              390.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              8.
+            </cell>
+            <cell xml:lang="ru">
+              Такая же
+            </cell>
+            <cell>
+              375.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              9.
+            </cell>
+            <cell xml:lang="ru">
+              Круглая бирюзовая
+            </cell>
+            <cell>
+              350.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              10.
+            </cell>
+            <cell xml:lang="ru">
+              ––––––––– синяя бирюзовая
+            </cell>
+            <cell>
+              350.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              11.
+            </cell>
+            <cell xml:lang="ru">
+              Овальная лиловая
+            </cell>
+            <cell>
+              300.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              12.
+            </cell>
+            <cell xml:lang="ru">
+              ––––––––– синяя с звездочками
+            </cell>
+            <cell>
+              300.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              13.
+            </cell>
+            <cell xml:lang="ru">
+              Круглая арабесковая
+            </cell>
+            <cell>
+              280.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              14.
+            </cell>
+            <cell xml:lang="ru">
+              Такая же
+            </cell>
+            <cell>
+              250.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              15.
+            </cell>
+            <cell xml:lang="ru">
+              Овальная синяя с звездочками
+            </cell>
+            <cell>
+              225.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              16.
+            </cell>
+            <cell xml:lang="ru">
+              Круглая золотая без финифти
+            </cell>
+            <cell>
+              200.
+            </cell>
+          </row>
+        </table>
+        <pb n="f. 1348"/>
+
+        <table>
+          <row>
+            <cell>
+              N°
+            </cell>
+            <cell/>
+            <cell xml:lang="ru">
+              Рубли
+            </cell>
+          </row>
+          <row>
+            <cell/>
+            <cell xml:lang="ru">
+              Перстни:
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              1.
+            </cell>
+            <cell xml:lang="ru">
+              Брилиянтовой в два ряда
+            </cell>
+            <cell>
+              850.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              2.
+            </cell>
+            <cell xml:lang="ru">
+              ––––––––– алафигаро
+            </cell>
+            <cell>
+              700.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              3.
+            </cell>
+            <cell xml:lang="ru">
+              С цветным камнем
+            </cell>
+            <cell>
+              550.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              4.
+            </cell>
+            <cell xml:lang="ru">
+              Брилиянтовой
+            </cell>
+            <cell>
+              500.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              5.
+            </cell>
+            <cell xml:lang="ru">
+              Тоже
+            </cell>
+            <cell>
+              450.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              6.
+            </cell>
+            <cell xml:lang="ru">
+              Тоже
+            </cell>
+            <cell>
+              400.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              7.
+            </cell>
+            <cell xml:lang="ru">
+              Тоже
+            </cell>
+            <cell>
+              400.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              8.
+            </cell>
+            <cell xml:lang="ru">
+              Во вкусе арабеск из роз
+            </cell>
+            <cell>
+              390.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              9.
+            </cell>
+            <cell> xml:lang="ru"
+              Брилиянтовой
+            </cell>
+            <cell>
+              385.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              10.
+            </cell>
+            <cell xml:lang="ru">
+              Синий яхонтовой осыпанной брилиянтами
+            </cell>
+            <cell>
+              380.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              11.
+            </cell>
+            <cell xml:lang="ru">
+              Такой же
+            </cell>
+            <cell>
+              350.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              12.
+            </cell>
+            <cell xml:lang="ru">
+              Брилиянтовой
+            </cell>
+            <cell>
+              300.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              13.
+            </cell>
+            <cell xml:lang="ru">
+              Синий яхонтовой с осыпкою брилиянтовою
+            </cell>
+            <cell>
+              280.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              14.
+            </cell>
+            <cell xml:lang="ru">
+              Брилиянтовый
+            </cell>
+            <cell>
+              280.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              15.
+            </cell>
+            <cell xml:lang="ru">
+              Аматистовый осыпанный брилиянтами
+            </cell>
+            <cell>
+              180.
+            </cell>
+          </row>
+          <row>
+            <cell/>
+            <cell xml:lang="ru">
+              <hi cert="high" generatedBy="human" rendition="#u" xml:space="default">Часы с
+                цепочками:</hi>
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              1.
+            </cell>
+            <cell xml:lang="ru">
+              С синею и белою финифтью, с репетициею
+            </cell>
+            <cell>
+              350.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              2.
+            </cell>
+            <cell xml:lang="ru">
+              Большие золотые гладкие
+            </cell>
+            <cell>
+              350.
+            </cell>
+          </row>
+        </table>
+
+        <pb n="f. 1349"/>
+
+        <table>
+          <row>
+            <cell>
+              N°
+            </cell>
+            <cell/>
+            <cell xml:lang="ru">
+              Рубли
+            </cell>
+          </row>
+          <row>
+            <cell>
+              3.
+            </cell>
+            <cell xml:lang="ru">
+              Поменше резныя
+            </cell>
+            <cell>
+              275.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              4.
+            </cell>
+            <cell xml:lang="ru">
+              С белою амалью
+            </cell>
+            <cell>
+              250.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              5.
+            </cell>
+            <cell xml:lang="ru">
+              Гладкие
+            </cell>
+            <cell>
+              210.
+            </cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>
+              _________________________________________________
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell/>
+            <cell xml:lang="ru">
+              И того всех вещей ценою на пятнадцать тысяч рублей
+            </cell>
+            <cell>
+              15000.
+            </cell>
+          </row>
+          <row>
+            <cell/>
+            <cell/>
+            <cell/>
+          </row>
+          <row>
+            <cell/>
+            <cell xml:lang="ru"> Сверх того из оставшихся от <orgName key="o0079">константинопольской
+              миссии</orgName> вещей, <persName key="p0894">г[осподино]м тайным советником
+              Булгаковым</persName> представлены, и сюдаже причисляются для равнаго с другими
+              употребления: </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>
+              40.
+            </cell>
+            <cell xml:lang="ru">
+              Табакерка золотая круглая
+            </cell>
+            <cell>
+              180.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              40.
+            </cell>
+            <cell xml:lang="ru">
+              Перстень брилиянтовой
+            </cell>
+            <cell>
+              950.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              42.
+            </cell>
+            <cell xml:lang="ru">
+              –––––––– зеленый с осыпью алмазною
+            </cell>
+            <cell>
+              650.
+            </cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>
+              __________________________________________
+            </cell>
+            <cell/>
+          </row>
+          <row>
+            <cell/>
+            <cell>
+              Итого
+            </cell>
+            <cell xml:lang="ru"> 1780<lb/>ру[блей] </cell>
+          </row>
+        </table>
+
+        <p>
+          <persName key="p0893" type="signature">Граф А[лександр] Безбородко</persName>
+            </p>
+
+        <noteGrp>
+          <note>See also:</note>
+          <note>fr_bpp_29_8_0001</note>
+        </noteGrp>
+      </div>
+    </body>
+  </text>
+</TEI>
